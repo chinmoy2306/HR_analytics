@@ -5,13 +5,13 @@ This repository contains an HR analytics dashboard developed using Power BI. The
 The dataset used for this project consists of information related to HR analytics. The dataset includes variables such as employee details, performance metrics, satisfaction levels, etc.
 ## Project Structure
 This repository is structured as follows:
--	Readme file: README.md
+-	Readme file: [README.md](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/README.md)
 -	Raw dataset files:
-	- dEmployee_data.csv
-	- dRetrenched.csv
-	- HR Analytics Data.csv
-	- hr_due_promotion&retrenchment.csv
--	New_HR_dashboard.pbix:
+	- [Employee_data.csv](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/Employee_data.csv)
+	- [Retrenched_employees.csv](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/Retrenched_employees.csv)
+	- [HR_Analytics_Data.csv](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/HR_Analytics_Data.csv)
+	- [Due_for_promotion&retrenchment.xlsx](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/Due_for_promotion%26retrenchment.xlsx.xlsx)
+-	[HR_analytics_dashboard.pbix](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/HR_analytics_dashboard.pbix):
 	- This power bi file contains the dashboard comprising of various visualizations performed on the raw datasets.
 	- Feel free to explore the New_HR_dashboard.pbix file to view the specific visualizations used in this analysis.
 ## Dashboard Components
@@ -23,7 +23,7 @@ The HR analytics dashboard includes the following components:
 ## Usage
 To explore the HR analytics dashboard:
 1.	Clone the repository:
-git clone https://github.com/chinmoy2306/HR_dashboard_analytics.git
+git clone https://github.com/chinmoy2306/HR_analytics.git
 2.	Open Power BI Desktop or Power BI Online.
 3.	Download the raw dataset files located in the repository.
 4.	Open the Power BI project file (hr_analytics_dashboard.pbix) located in the repository.
