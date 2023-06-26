@@ -23,7 +23,7 @@ The HR analytics dashboard includes the following components:
 ## Usage
 To explore the HR analytics dashboard:
 1.	Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/chinmoy2306/HR_dashboard_analytics.git
 2.	Open Power BI Desktop or Power BI Online.
 3.	Download the raw dataset files located in the repository.
 4.	Open the Power BI project file (hr_analytics_dashboard.pbix) located in the repository.
