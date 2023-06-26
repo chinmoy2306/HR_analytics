@@ -13,7 +13,7 @@ This repository is structured as follows:
 	- [Due_for_promotion&retrenchment.xlsx](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/Due_for_promotion%26retrenchment.xlsx.xlsx)
 -	[HR_analytics_dashboard.pbix](https://github.com/chinmoy2306/HR_dashboard_analytics/blob/0b3f8388fac332af6fc348db31d1d4fde096f141/HR_analytics_dashboard.pbix):
 	- This power bi file contains the dashboard comprising of various visualizations performed on the raw datasets.
-	- Feel free to explore the New_HR_dashboard.pbix file to view the specific visualizations used in this analysis.
+	- Feel free to explore the HR_analytics_dashboard.pbix file to view the specific visualizations used in this analysis.
 ## Dashboard Components
 The HR analytics dashboard includes the following components:
 -	Overview: Provides a high-level summary of key HR metrics, including total employees, turnover rate, employees due for promotion, etc.
