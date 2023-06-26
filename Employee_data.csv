@@ -1,0 +1,1471 @@
+EmployeeNumber,Name,gender,Branch,Date of join,Date of leaving
+23,Ulberto Wallworke,Male,New York,12-02-2019,
+24,Dewain Sextone,Male,New York,22-01-2018,
+33,Torrin Crudgington,Male,New York,26-03-2018,
+83,Flinn Cooling,Male,New York,04-07-2018,
+94,Olav Atwel,Male,New York,16-12-2018,
+95,Mord Huertas,Male,New York,23-08-2018,
+112,Ennis Bufton,Male,New York,24-12-2018,
+118,Stavros Letcher,Male,New York,18-01-2019,
+131,Burl Giroldo,Male,New York,27-08-2018,
+132,Leonhard Stampe,Male,New York,21-11-2018,
+144,Hanson Heale,Male,New York,09-07-2018,
+154,Erskine Ipsley,Male,New York,09-05-2018,
+170,Bran Swadlen,Male,New York,08-06-2018,
+171,Evyn Tidey,Male,New York,11-01-2018,
+183,Quill Steanson,Male,New York,21-09-2018,
+194,Webb Arnson,Male,New York,29-07-2018,
+208,Lucas Noddle,Male,New York,27-07-2018,
+216,Seamus Stacey,Male,New York,12-01-2018,
+223,Averil Baddiley,Male,New York,18-08-2018,
+231,Corbet Vearncombe,Male,New York,16-10-2018,
+242,Heriberto Tinline,Male,New York,14-06-2018,
+261,Thaddus Fulmen,Male,New York,13-04-2018,
+298,Pedro Dory,Male,New York,16-02-2019,
+319,Nicola Carwithan,Male,New York,12-02-2018,
+349,Kirby Drewell,Male,New York,25-07-2018,
+352,Aguistin Andri,Male,New York,13-04-2018,
+379,Cori Webber,Male,New York,29-09-2018,
+384,Brenden Russ,Male,New York,20-11-2018,
+394,Hazel Fussen,Male,New York,29-01-2018,
+401,Kareem Ratie,Male,New York,21-03-2018,
+403,Hamel Hartzogs,Male,New York,24-02-2018,
+431,Nicol Buncom,Male,New York,18-01-2018,
+438,Kelly Bearns,Male,New York,24-02-2019,
+440,Rodolph Comiskey,Male,New York,25-12-2018,
+451,Eamon Graalman,Male,New York,11-09-2018,
+453,Hillier Mughal,Male,New York,27-04-2018,
+456,Bay Burnsyde,Male,New York,16-05-2018,
+461,Ezechiel Yanukhin,Male,New York,26-06-2018,
+463,Sanford Alcoran,Male,New York,10-07-2018,
+501,Rodolfo Fathers,Male,New York,02-02-2018,
+507,Cleve Getch,Male,New York,20-02-2019,
+543,Nick Eakins,Male,New York,15-02-2018,
+554,Shaughn Borless,Male,New York,27-07-2018,
+574,Lionel Frisby,Male,New York,30-03-2018,
+586,Thane Price,Male,New York,23-02-2018,
+606,Thornton Caughte,Male,New York,10-07-2018,
+615,Walker Goscar,Male,New York,08-06-2018,
+656,Adham Charlon,Male,New York,01-02-2019,
+659,Morly Cuppleditch,Male,New York,01-08-2018,
+663,Justen Schwandt,Male,New York,07-02-2019,
+671,Heall Foulcher,Male,New York,06-01-2018,
+675,Aluin Shegog,Male,New York,07-07-2018,
+691,Cobby Avramovich,Male,New York,18-11-2018,
+699,Howie Garwood,Male,New York,31-01-2018,
+701,Rooney Stokoe,Male,New York,27-11-2018,
+710,Ned Frost,Male,New York,08-08-2018,
+712,Sammie Mardlin,Male,New York,20-11-2018,
+724,Ric Immins,Male,New York,12-02-2019,
+730,Gaile Thurske,Male,New York,13-06-2018,
+744,Urbain Coning,Male,New York,25-12-2018,
+757,Dennet Whybrow,Male,New York,16-12-2018,
+772,Stephanus Bordis,Male,New York,25-01-2018,
+789,Laird Celloni,Male,New York,05-07-2018,
+797,Lamond Humbell,Male,New York,08-09-2018,
+805,Mackenzie Blasli,Male,New York,24-02-2019,
+811,Quinn O'Sheerin,Male,New York,08-02-2019,
+836,Jedd Teodoro,Male,New York,30-01-2018,
+845,Maxy MacCostigan,Male,New York,03-09-2018,
+851,Holly Camber,Male,New York,07-05-2018,
+852,Eldon Lyst,Male,New York,15-10-2018,
+864,Symon Abbay,Male,New York,04-06-2018,
+869,Kahlil Ratnege,Male,New York,11-01-2019,
+896,Ulrick Gatenby,Male,New York,25-06-2018,
+920,Rod Alcorn,Male,New York,31-03-2018,
+947,Barry Joanic,Male,New York,04-03-2018,
+952,Lemmy Tatum,Male,New York,12-02-2019,
+956,Currey Bambrick,Male,New York,04-09-2018,
+959,Homer O'Day,Male,New York,06-07-2018,
+975,Herculie Pendred,Male,New York,18-05-2018,
+991,Giuseppe Trusdale,Male,New York,13-03-2018,
+997,Harald Ornelas,Male,New York,28-01-2019,
+1009,Paxton Wolseley,Male,New York,18-06-2018,
+1010,Hodge MacAiline,Male,New York,08-01-2018,
+1017,Luke Brownsworth,Male,New York,19-10-2018,
+1044,Barn Lente,Male,New York,20-09-2018,
+1047,Klaus Parkins,Male,New York,28-03-2018,
+1048,Diego Lourenco,Male,New York,30-01-2018,
+1049,Burnard Plampeyn,Male,New York,10-05-2018,
+1050,Gabby Ambroix,Male,New York,30-01-2018,
+1053,Dunstan Tatam,Male,New York,16-04-2018,
+1062,Kele Waye,Male,New York,23-01-2019,
+1070,Anatole Leamon,Male,New York,05-02-2018,
+1071,Hirsch Spraggs,Male,New York,30-01-2019,
+1081,Gabby Bolduc,Male,New York,12-09-2018,
+1092,Goraud Eakle,Male,New York,05-02-2019,
+1137,Christy Buttery,Male,New York,16-08-2018,
+1175,Peyton Kleinberer,Male,New York,14-01-2018,
+1188,Siffre Chalfant,Male,New York,27-10-2018,
+1190,Quinlan Raynes,Male,New York,02-10-2018,
+1193,Natale Tulley,Male,New York,04-06-2018,
+1239,Archy Poynton,Male,New York,02-06-2018,
+1243,Raimund Deverill,Male,New York,15-12-2018,
+1248,Dario Shelper,Male,New York,26-08-2018,
+1264,Theobald Renfield,Male,New York,26-02-2018,
+1269,Nilson MacVicar,Male,New York,04-04-2018,
+1275,Vergil Gabbatiss,Male,New York,06-07-2018,
+1277,Brucie Liddicoat,Male,New York,20-12-2018,
+1285,Davide Robbert,Male,New York,06-06-2018,
+1294,Harman Tilio,Male,New York,18-01-2018,
+1304,Jose Lowndsborough,Male,New York,02-05-2018,
+1321,Tirrell Stonall,Male,New York,28-06-2018,
+1329,Chance Ireson,Male,New York,25-11-2018,
+1331,Travus Bowden,Male,New York,25-08-2018,
+1346,Binky Fulbrook,Male,New York,08-06-2018,
+1356,Lanie Margetts,Male,New York,30-04-2018,
+1367,Artemus Trickett,Male,New York,20-04-2018,
+1372,Lemmy O' Mullane,Male,New York,15-03-2018,
+1382,Bartholomew Skilling,Male,New York,30-09-2018,
+1389,Gabie Jachimak,Male,New York,16-10-2018,
+1391,Blake Hopkyns,Male,New York,14-08-2018,
+1395,Boigie Rumford,Male,New York,01-11-2018,
+1396,Kristos Wycliff,Male,New York,20-07-2018,
+1399,Dermot Domesday,Male,New York,24-10-2018,
+1402,Dene Stimpson,Male,New York,11-03-2018,
+1424,Hamish Dillicate,Male,New York,30-06-2018,
+1435,Jaye McGucken,Male,New York,28-01-2019,
+1465,Ozzy Nend,Male,New York,08-01-2019,
+1478,Jecho Bayly,Male,New York,03-09-2018,
+1484,Hoebart Rumble,Male,New York,08-07-2018,
+1495,Jerry Oganian,Male,New York,14-08-2018,
+1497,Bil Neave,Male,New York,01-02-2019,
+1507,Arv World,Male,New York,11-09-2018,
+1515,Kennedy Shotboult,Male,New York,15-09-2018,
+1539,Granthem Wigg,Male,New York,23-12-2018,
+1555,Rolfe Bassford,Male,New York,17-01-2019,
+1556,Zebulon Tong,Male,New York,07-12-2018,
+1560,Welch Bulmer,Male,New York,13-10-2018,
+1583,Etan Corradini,Male,New York,26-04-2018,
+1598,Jackie Hammonds,Male,New York,16-05-2018,
+1615,Dallis Lamas,Male,New York,03-01-2019,
+1623,Lewiss Byfield,Male,New York,03-06-2018,
+1628,Abel Thomel,Male,New York,28-06-2018,
+1631,Terri Phizackarley,Male,New York,19-07-2018,
+1642,Tabb Jarrel,Male,New York,28-02-2019,
+1644,Matias Baudichon,Male,New York,24-11-2018,
+1654,Eberhard Honatsch,Male,New York,14-07-2018,
+1691,Eberhard Barsby,Male,New York,28-02-2019,
+1716,Mordy Warwicker,Male,New York,11-05-2018,
+1718,Damon Wilsone,Male,New York,12-10-2018,
+1747,Arvy Oboy,Male,New York,23-03-2018,
+1757,Anatole Bemwell,Male,New York,04-09-2018,
+1766,Northrop Olivera,Male,New York,31-08-2018,
+1801,Orion Crebo,Male,New York,15-06-2018,
+1816,Barclay Boscher,Male,New York,12-04-2018,
+1836,Chrotoem Eyckelbeck,Male,New York,05-09-2018,
+1867,Falkner Legier,Male,New York,26-06-2018,
+1885,Skylar Potier,Male,New York,02-09-2018,
+1893,Tudor Brevetor,Male,New York,04-04-2018,
+1929,Isaiah McCracken,Male,New York,04-03-2018,
+1936,Teddy Stuchbury,Male,New York,04-01-2018,
+1954,Merv Spittles,Male,New York,02-01-2018,
+2009,Tyrone Giddens,Male,New York,11-06-2018,
+2020,Brnaby Dreng,Male,New York,08-10-2018,
+2024,Robers Mainwaring,Male,New York,25-01-2018,
+2026,Hazel Vanichkov,Male,New York,27-05-2018,
+2036,Riccardo Sebastian,Male,New York,05-05-2018,
+2049,Cullin Youster,Male,New York,22-01-2018,
+2051,Luigi Philcock,Male,New York,10-04-2018,
+2052,Matt Cleghorn,Male,New York,03-10-2018,
+2060,Shepherd Androletti,Male,New York,09-02-2019,
+1,Jeni Kilpin,Female,New York,24-10-2018,
+10,Karly Desvignes,Female,New York,10-08-2018,
+15,Alana Syder,Female,New York,15-02-2019,
+30,Bridie Setterthwait,Female,New York,02-08-2018,
+31,Valaria Baden,Female,New York,06-12-2018,
+42,Dyann Regina,Female,New York,21-05-2018,
+45,Dorolisa Myring,Female,New York,05-11-2018,
+54,Clemence Faers,Female,New York,10-01-2019,
+58,Malvina Laban,Female,New York,04-01-2019,
+61,Charity Franz,Female,New York,03-01-2018,
+64,Sofia Whiston,Female,New York,12-05-2018,
+68,Darleen Stidston,Female,New York,18-03-2018,
+100,Sidonnie Blethyn,Female,New York,12-08-2018,
+139,Rasia Rickard,Female,New York,25-11-2018,
+198,Maren Dmitrichenko,Female,New York,04-02-2019,
+200,Claude Brilleman,Female,New York,13-01-2018,
+205,Regan Robjents,Female,New York,02-04-2018,
+215,Gianna Sowerbutts,Female,New York,28-04-2018,
+227,Traci Edwicke,Female,New York,19-10-2018,
+246,Gerrilee Kendal,Female,New York,12-02-2019,
+247,Collie Vasilechko,Female,New York,17-10-2018,
+253,Jenifer Wybourne,Female,New York,23-01-2019,
+259,Merrilee Thornbarrow,Female,New York,17-06-2018,
+264,Julietta Greenard,Female,New York,29-09-2018,
+302,Aurelie Tunny,Female,New York,25-03-2018,
+315,Noreen Simenon,Female,New York,19-09-2018,
+325,Chelsae Crebo,Female,New York,06-06-2018,
+332,Georgette Gemelli,Female,New York,16-02-2018,
+335,Gussi Margach,Female,New York,14-01-2019,
+351,Lianna Beggio,Female,New York,12-12-2018,
+353,Anna-maria Niave,Female,New York,22-09-2018,
+359,Seana Hallwell,Female,New York,22-01-2018,
+369,Beulah Sincock,Female,New York,12-12-2018,
+376,Judy Brittles,Female,New York,08-09-2018,
+380,Carroll Treuge,Female,New York,17-01-2019,
+388,Malia Pirrie,Female,New York,10-01-2018,
+407,Dreddy Zink,Female,New York,23-06-2018,
+429,Marcela Flockhart,Female,New York,17-07-2018,
+430,Laura McShea,Female,New York,26-10-2018,
+434,Eleonore Coey,Female,New York,10-08-2018,
+450,Bernadene Manuel,Female,New York,29-05-2018,
+474,Dinnie Zammitt,Female,New York,10-09-2018,
+524,Joline Mieville,Female,New York,19-03-2018,
+530,Cally Fenny,Female,New York,17-04-2018,
+547,Isabelle Condit,Female,New York,21-12-2018,
+556,Valenka Phayre,Female,New York,12-01-2018,
+567,Cordie Gibbieson,Female,New York,03-02-2018,
+577,Celestina Canet,Female,New York,05-10-2018,
+587,Linda Blucher,Female,New York,21-08-2018,
+621,Dorothee McCusker,Female,New York,02-02-2018,
+647,Vita Puckring,Female,New York,19-10-2018,
+662,Margette Livesley,Female,New York,03-02-2019,
+677,Morena Maffin,Female,New York,05-12-2018,
+689,Jana Celes,Female,New York,01-04-2018,
+733,Romona Sartain,Female,New York,12-02-2018,
+771,Marja Tersay,Female,New York,04-01-2018,
+773,Melania Sisselot,Female,New York,29-04-2018,
+837,Dorothea Abley,Female,New York,24-02-2019,
+850,Charlot Sleet,Female,New York,11-12-2018,
+861,Elnora Bainbridge,Female,New York,25-03-2018,
+882,Jerrilyn Rostron,Female,New York,23-11-2018,
+887,Teirtza Yate,Female,New York,26-08-2018,
+897,Tabina Bunyan,Female,New York,17-11-2018,
+916,Corri McAline,Female,New York,22-08-2018,
+925,Eloisa Backman,Female,New York,01-10-2018,
+949,Theresa Asche,Female,New York,26-12-2018,
+969,Ciel Arnoll,Female,New York,01-01-2018,
+974,Elbertine Knipe,Female,New York,19-02-2019,
+977,Lauri Tuminini,Female,New York,02-08-2018,
+999,Kirsten Webb-Bowen,Female,New York,14-04-2018,
+1002,Annie Horry,Female,New York,09-01-2019,
+1004,Isadora Alexsandrovich,Female,New York,05-09-2018,
+1013,Camile Isherwood,Female,New York,08-10-2018,
+1038,Trista Peye,Female,New York,23-06-2018,
+1040,Stesha Scutt,Female,New York,13-09-2018,
+1043,Katine Laweles,Female,New York,07-03-2018,
+1055,Valli Carruthers,Female,New York,01-03-2018,
+1085,Teresita Bremmell,Female,New York,12-02-2018,
+1102,Jemie Reast,Female,New York,17-12-2018,
+1124,Pansy Allabush,Female,New York,08-05-2018,
+1135,Nalani Gaskal,Female,New York,16-11-2018,
+1138,Berrie Ogelbe,Female,New York,03-07-2018,
+1161,Sarah Orable,Female,New York,23-02-2018,
+1162,Albertina O'Sherin,Female,New York,23-09-2018,
+1191,Karlee Seagrove,Female,New York,17-12-2018,
+1201,Cosette Pietruszka,Female,New York,29-01-2019,
+1224,Moyra Fearnyhough,Female,New York,06-01-2019,
+1241,Gisele Blessed,Female,New York,01-11-2018,
+1252,Nerita Maccrae,Female,New York,02-10-2018,
+1301,Gnni holmes,Female,New York,25-02-2018,
+1338,Sonni Bradly,Female,New York,22-12-2018,
+1352,Elysia Roderham,Female,New York,20-01-2019,
+1364,Kania Tchir,Female,New York,03-02-2019,
+1369,Maggie Crut,Female,New York,22-01-2018,
+1420,Shelbi Moakes,Female,New York,13-07-2018,
+1438,Eyde Fairnington,Female,New York,11-02-2019,
+1441,Chlo Spires,Female,New York,29-10-2018,
+1457,Mahalia Stuke,Female,New York,03-02-2018,
+1468,Chlo Seabrocke,Female,New York,19-04-2018,
+1479,Ashlie Delong,Female,New York,23-11-2018,
+1485,Ivette Nail,Female,New York,16-02-2019,
+1492,Madelin Aluard,Female,New York,11-04-2018,
+1499,Ninnetta Valentine,Female,New York,18-08-2018,
+1516,Valentina Metts,Female,New York,02-01-2019,
+1529,Annelise Hilland,Female,New York,02-04-2018,
+1550,Kelcey Deporte,Female,New York,29-09-2018,
+1551,Talyah Gloyens,Female,New York,03-08-2018,
+1580,Roana Chicchetto,Female,New York,28-01-2019,
+1617,Hope Lithgow,Female,New York,13-04-2018,
+1638,Aloisia Lampens,Female,New York,05-01-2019,
+1641,Joanna Eyckel,Female,New York,05-09-2018,
+1646,Maye Rysom,Female,New York,15-03-2018,
+1647,Shaine Poznan,Female,New York,25-05-2018,
+1681,Ariana Stratford,Female,New York,21-11-2018,
+1682,Elberta Hayley,Female,New York,13-01-2018,
+1720,Marguerite Saward,Female,New York,21-01-2019,
+1746,Wendi Duckers,Female,New York,13-09-2018,
+1786,Evey Jansen,Female,New York,11-02-2019,
+1792,Kenna Nicholl,Female,New York,22-07-2018,
+1804,Pollyanna Remmer,Female,New York,23-02-2018,
+1807,Daniele Messitt,Female,New York,15-08-2018,
+1824,Ella Wallman,Female,New York,21-06-2018,
+1833,Maribelle Greenough,Female,New York,03-12-2018,
+1834,Rosanna Richardes,Female,New York,22-04-2018,
+1847,Lenore Tirrell,Female,New York,30-05-2018,
+1866,Eloisa Gligori,Female,New York,27-12-2018,
+1888,Luise Kendred,Female,New York,30-06-2018,
+1892,Eleanora Taylerson,Female,New York,03-02-2018,
+1907,Diana McCarthy,Female,New York,20-08-2018,
+1927,Bellina Cuolahan,Female,New York,05-01-2018,
+1928,Ruthe Milstead,Female,New York,23-09-2018,
+1939,Christen Gritland,Female,New York,18-01-2019,
+1940,Zaria Aggott,Female,New York,12-02-2018,
+1950,Shelby Porter,Female,New York,25-02-2019,
+1951,Brittany Lace,Female,New York,08-03-2018,
+1966,Rochella Eddy,Female,New York,22-05-2018,
+1969,Ekaterina Gumb,Female,New York,09-11-2018,
+1971,Pegeen Santoro,Female,New York,03-08-2018,
+1980,Vania Bradnock,Female,New York,24-02-2018,
+1994,Mireielle Harvison,Female,New York,14-10-2018,
+2013,Garland Kelshaw,Female,New York,29-10-2018,
+2017,Jania FitzAlan,Female,New York,20-02-2018,
+2031,Juana Hevner,Female,New York,24-11-2018,
+2045,Lilli Hafner,Female,New York,03-01-2019,
+2057,Reena Sprakes,Female,New York,03-12-2018,
+5,Ruthanne Pendre,Female,Baltimore,25-10-2018,
+8,Lin Grime,Female,Baltimore,29-09-2018,
+62,Dallas Peacey,Female,Baltimore,12-04-2018,
+74,Susana Carillo,Female,Baltimore,03-03-2018,
+78,Minna Gellion,Female,Baltimore,22-06-2018,
+85,Jannelle Rosellini,Female,Baltimore,04-09-2018,
+90,Yalonda Gergler,Female,Baltimore,14-07-2018,
+91,Odelia Yandell,Female,Baltimore,26-11-2018,
+113,Cairistiona Beavon,Female,Baltimore,30-01-2019,
+145,Josy Joynes,Female,Baltimore,24-12-2018,
+235,Magdaia Anmore,Female,Baltimore,16-07-2018,
+245,Othella Chatenier,Female,Baltimore,26-03-2018,
+274,Julita Wyeth,Female,Baltimore,10-09-2018,
+303,Brita Bleakley,Female,Baltimore,09-08-2018,
+321,Josefina Oldknow,Female,Baltimore,19-12-2018,
+338,Agnese Whale,Female,Baltimore,11-12-2018,
+343,Buffy Perutto,Female,Baltimore,29-01-2018,
+366,Carlynn Leeming,Female,Baltimore,19-01-2019,
+372,Carlita Sinyard,Female,Baltimore,12-09-2018,
+373,Carolann Priestner,Female,Baltimore,17-10-2018,
+396,Clarine Potticary,Female,Baltimore,02-09-2018,
+455,Charla Kiera,Female,Baltimore,10-12-2018,
+479,Sileas Spurr,Female,Baltimore,03-01-2019,
+513,Aili Beadell,Female,Baltimore,11-09-2018,
+516,Demetria Treneman,Female,Baltimore,12-11-2018,
+544,Arlina Shervil,Female,Baltimore,27-03-2018,
+560,Goldie Vreiberg,Female,Baltimore,28-12-2018,
+620,Lissa Tirte,Female,Baltimore,09-01-2018,
+638,Alice Warbey,Female,Baltimore,08-09-2018,
+643,Myrlene Bonanno,Female,Baltimore,29-11-2018,
+655,Winonah Davio,Female,Baltimore,06-10-2018,
+682,Lucy Grishin,Female,Baltimore,06-02-2018,
+702,Christal Petz,Female,Baltimore,03-07-2018,
+716,Nert Freen,Female,Baltimore,04-10-2018,
+725,Cariotta Blazy,Female,Baltimore,04-01-2018,
+738,Lizabeth Lilliman,Female,Baltimore,18-08-2018,
+743,Fanny Gyrgorcewicx,Female,Baltimore,13-11-2018,
+747,Elly Mease,Female,Baltimore,24-06-2018,
+802,Minnnie Labadini,Female,Baltimore,09-05-2018,
+820,Blaire Smoth,Female,Baltimore,09-11-2018,
+844,Perle Hazzard,Female,Baltimore,25-02-2018,
+913,Chickie Gatward,Female,Baltimore,03-12-2018,
+924,Lela Ginnelly,Female,Baltimore,07-12-2018,
+934,Meade Petrasso,Female,Baltimore,02-03-2018,
+936,Colette Spellacey,Female,Baltimore,12-01-2019,
+940,Aretha Fidge,Female,Baltimore,02-08-2018,
+954,Madelina Cowles,Female,Baltimore,23-06-2018,
+957,Clementine Sugarman,Female,Baltimore,15-04-2018,
+964,Riva Elsay,Female,Baltimore,06-02-2018,
+966,Esmeralda Perview,Female,Baltimore,21-07-2018,
+972,Katinka Cartledge,Female,Baltimore,24-04-2018,
+1026,Elfreda Brickdale,Female,Baltimore,16-03-2018,
+1030,Cybil Rawood,Female,Baltimore,10-04-2018,
+1033,Lyn Proffer,Female,Baltimore,08-07-2018,
+1035,Juli Geist,Female,Baltimore,13-03-2018,
+1046,Rebeka Stembridge,Female,Baltimore,01-01-2019,
+1073,Mirelle Cambridge,Female,Baltimore,25-10-2018,
+1084,Susi Aikman,Female,Baltimore,03-08-2018,
+1099,Juanita Cordero,Female,Baltimore,13-06-2018,
+1103,Clarisse Arondel,Female,Baltimore,07-09-2018,
+1173,Charity Catterill,Female,Baltimore,21-04-2018,
+1179,Aime Berkley,Female,Baltimore,06-10-2018,
+1195,Marisa De Castri,Female,Baltimore,02-05-2018,
+1202,Rosemonde Gradley,Female,Baltimore,19-08-2018,
+1207,Stormi Norree,Female,Baltimore,28-02-2019,
+1211,Melina Parrin,Female,Baltimore,21-01-2019,
+1217,Milicent Racher,Female,Baltimore,27-06-2018,
+1226,Eloise Collingworth,Female,Baltimore,19-07-2018,
+1238,Arleta Lundon,Female,Baltimore,08-04-2018,
+1251,Ronny Dragge,Female,Baltimore,28-10-2018,
+1259,Shirl Pere,Female,Baltimore,28-12-2018,
+1260,Bettine Paddick,Female,Baltimore,18-01-2019,
+1279,Georgina Towns,Female,Baltimore,16-02-2019,
+1281,Malina Bernardt,Female,Baltimore,29-08-2018,
+1291,Didi Gawke,Female,Baltimore,12-02-2019,
+1308,Madelaine Matiewe,Female,Baltimore,29-11-2018,
+1310,Norene Hackford,Female,Baltimore,16-07-2018,
+1315,Dulcinea Derks,Female,Baltimore,03-07-2018,
+1317,Annmaria Teeney,Female,Baltimore,02-11-2018,
+1358,Michelle Jumont,Female,Baltimore,13-07-2018,
+1361,Marice Kemmis,Female,Baltimore,19-01-2018,
+1374,Cher Bruckman,Female,Baltimore,25-04-2018,
+1409,Dacy Kift,Female,Baltimore,13-04-2018,
+1412,Ruby Pile,Female,Baltimore,07-02-2018,
+1421,Reba Thurbon,Female,Baltimore,23-06-2018,
+1422,Eliza Blesli,Female,Baltimore,20-05-2018,
+1431,Lilyan Ficken,Female,Baltimore,11-01-2018,
+1446,Cathy Caustic,Female,Baltimore,28-02-2019,
+1447,Maxi Aspenlon,Female,Baltimore,21-02-2019,
+1461,Lettie Dorot,Female,Baltimore,20-01-2018,
+1471,Corri Delagua,Female,Baltimore,29-06-2018,
+1474,Casi Nana,Female,Baltimore,29-07-2018,
+1541,Agna Orring,Female,Baltimore,14-10-2018,
+1543,Janie Hallford,Female,Baltimore,29-12-2018,
+1546,Claudia Le Monnier,Female,Baltimore,27-05-2018,
+1558,Robbyn Summerson,Female,Baltimore,13-08-2018,
+1564,Denise McDowell,Female,Baltimore,06-07-2018,
+1588,Olympia Earie,Female,Baltimore,12-05-2018,
+1592,Brooke Strangeway,Female,Baltimore,17-02-2019,
+1608,Brande Fabri,Female,Baltimore,04-08-2018,
+1648,Lauretta Medcalfe,Female,Baltimore,14-06-2018,
+1651,Marcelline Blockwell,Female,Baltimore,20-03-2018,
+1707,Liesa Edwins,Female,Baltimore,08-01-2019,
+1778,De Ludgrove,Female,Baltimore,08-04-2018,
+1787,Geri MacGeaney,Female,Baltimore,22-10-2018,
+1789,Pier Scotchmor,Female,Baltimore,06-11-2018,
+1815,Barbee Stopforth,Female,Baltimore,02-03-2018,
+1821,Devonne Shills,Female,Baltimore,27-10-2018,
+1823,Darci Figgs,Female,Baltimore,25-04-2018,
+1864,Cathryn Brute,Female,Baltimore,26-05-2018,
+1865,Margaux Hansbury,Female,Baltimore,22-12-2018,
+1875,Addi Cassie,Female,Baltimore,16-09-2018,
+1898,Mari Rough,Female,Baltimore,24-07-2018,
+1909,Devan Baitson,Female,Baltimore,21-02-2019,
+1918,Berry Medendorp,Female,Baltimore,01-07-2018,
+1932,Bobbe Danilenko,Female,Baltimore,22-03-2018,
+1945,Ansley Hanster,Female,Baltimore,04-01-2018,
+1960,Margaret Mossman,Female,Baltimore,12-12-2018,
+1976,Jackquelin Caherny,Female,Baltimore,23-08-2018,
+1985,Linnie Bakey,Female,Baltimore,02-03-2018,
+1989,Wallis Stainton - Skinn,Female,Baltimore,02-02-2018,
+2040,Flossie Van Oort,Female,Baltimore,27-01-2018,
+2041,Hannis Franklyn,Female,Baltimore,05-08-2018,
+2055,Mattie Trythall,Female,Baltimore,01-02-2018,
+2056,Jammie Meltetal,Female,Baltimore,05-01-2018,
+2064,Eadith Mellem,Female,Baltimore,06-05-2018,
+28,Dell Gligorijevic,Male,Baltimore,20-07-2018,
+51,Marsh Iggalden,Male,Baltimore,25-07-2018,
+73,Scotti Whewell,Male,Baltimore,01-02-2019,
+102,Dallas Ausello,Male,Baltimore,31-03-2018,
+105,Rowan Chilver,Male,Baltimore,09-09-2018,
+125,Neall Heddon,Male,Baltimore,10-10-2018,
+143,Gideon Daborn,Male,Baltimore,02-08-2018,
+155,Jackie Proffitt,Male,Baltimore,31-10-2018,
+161,Mervin Redley,Male,Baltimore,19-01-2018,
+224,Angelo Swedeland,Male,Baltimore,15-08-2018,
+249,Bran Elam,Male,Baltimore,19-07-2018,
+250,Obie Openshaw,Male,Baltimore,06-08-2018,
+282,Corbet Fuggle,Male,Baltimore,12-12-2018,
+288,Lonnard Tabor,Male,Baltimore,23-12-2018,
+297,Eduardo Handke,Male,Baltimore,23-06-2018,
+304,Griswold Flinn,Male,Baltimore,21-08-2018,
+305,Matthieu Degoix,Male,Baltimore,27-04-2018,
+333,Bryn Meininking,Male,Baltimore,04-10-2018,
+347,Monro O'Shaughnessy,Male,Baltimore,21-01-2019,
+364,Hiram Wailes,Male,Baltimore,27-01-2018,
+381,Emmott Jardine,Male,Baltimore,03-06-2018,
+385,Riccardo Thwaites,Male,Baltimore,26-01-2018,
+442,Roman Waldrum,Male,Baltimore,04-09-2018,
+454,Abe Renny,Male,Baltimore,21-08-2018,
+484,Fraser Rentoul,Male,Baltimore,29-05-2018,
+486,Karim Woolaghan,Male,Baltimore,01-12-2018,
+491,Tim Bazelle,Male,Baltimore,28-08-2018,
+515,Cristian Mineghelli,Male,Baltimore,10-01-2018,
+523,Quint Tunmore,Male,Baltimore,24-01-2019,
+526,Robinet Coners,Male,Baltimore,12-07-2018,
+529,Abeu Ronaghan,Male,Baltimore,23-08-2018,
+533,Conroy Harbinson,Male,Baltimore,16-05-2018,
+549,Benji McCarthy,Male,Baltimore,07-02-2019,
+565,Barthel Gilchrest,Male,Baltimore,25-09-2018,
+571,Benedick Cosin,Male,Baltimore,01-08-2018,
+575,Putnam Henstridge,Male,Baltimore,28-02-2018,
+578,Garvey Jarville,Male,Baltimore,28-03-2018,
+582,Rab Ffoulkes,Male,Baltimore,25-01-2018,
+584,Chad Stainson,Male,Baltimore,16-11-2018,
+599,Seward Chalcraft,Male,Baltimore,09-08-2018,
+605,Rodd Redshaw,Male,Baltimore,14-09-2018,
+624,Mendel Bru,Male,Baltimore,25-07-2018,
+644,Benson Dodle,Male,Baltimore,25-09-2018,
+666,Sonnie Pietron,Male,Baltimore,16-06-2018,
+686,Em Coundley,Male,Baltimore,06-11-2018,
+704,Averil Hannabus,Male,Baltimore,05-01-2019,
+720,Udell Naris,Male,Baltimore,29-01-2019,
+728,Johan Mothersole,Male,Baltimore,19-12-2018,
+734,Valentine Juarez,Male,Baltimore,29-11-2018,
+746,Trueman Crathern,Male,Baltimore,28-02-2019,
+754,Brod Domerc,Male,Baltimore,24-02-2018,
+769,Hunfredo Culpan,Male,Baltimore,17-06-2018,
+816,Devland Warder,Male,Baltimore,19-03-2018,
+828,Lorin Errington,Male,Baltimore,28-10-2018,
+832,Hadlee Clewarth,Male,Baltimore,04-02-2018,
+842,Porter MacDonell,Male,Baltimore,05-04-2018,
+874,Franciskus Meeus,Male,Baltimore,30-01-2019,
+909,Dieter Pasek,Male,Baltimore,17-03-2018,
+912,Tades Capps,Male,Baltimore,26-11-2018,
+942,Raoul Brawson,Male,Baltimore,10-09-2018,
+960,Reuben Queenborough,Male,Baltimore,11-04-2018,
+970,Wyndham Tomczykiewicz,Male,Baltimore,20-05-2018,
+994,Collin Medmore,Male,Baltimore,08-10-2018,
+1006,Ingrim Mapstone,Male,Baltimore,06-10-2018,
+1032,Barnett Gorini,Male,Baltimore,13-10-2018,
+1052,Javier Callard,Male,Baltimore,16-07-2018,
+1083,Vaughan Cayford,Male,Baltimore,15-12-2018,
+1096,Rollo Cuss,Male,Baltimore,20-05-2018,
+1097,Abba Kort,Male,Baltimore,23-02-2018,
+1133,Tome Swoffer,Male,Baltimore,28-09-2018,
+1158,Evelyn Grinston,Male,Baltimore,17-04-2018,
+1166,Thorvald Freear,Male,Baltimore,02-05-2018,
+1177,Connie Twyford,Male,Baltimore,22-02-2019,
+1184,Drugi McElvine,Male,Baltimore,17-05-2018,
+1206,Jeromy Haydn,Male,Baltimore,20-01-2019,
+1212,Cal Krochmann,Male,Baltimore,15-11-2018,
+1216,Peter Zammett,Male,Baltimore,21-02-2018,
+1225,Thacher Bogace,Male,Baltimore,15-06-2018,
+1234,Jarvis Kaesmans,Male,Baltimore,09-07-2018,
+1237,Giacobo Ashmore,Male,Baltimore,28-05-2018,
+1249,Hymie Fuggles,Male,Baltimore,05-02-2018,
+1255,Gian Thrush,Male,Baltimore,27-07-2018,
+1265,Gael Schwander,Male,Baltimore,03-04-2018,
+1296,Sonnie Letixier,Male,Baltimore,16-10-2018,
+1336,Michale Siret,Male,Baltimore,17-01-2018,
+1350,Rowan Cardozo,Male,Baltimore,05-09-2018,
+1363,Leonidas Wedlake,Male,Baltimore,03-07-2018,
+1390,Patty Hardistry,Male,Baltimore,26-01-2018,
+1423,Burk McCarlie,Male,Baltimore,05-01-2018,
+1443,Kristopher Hantusch,Male,Baltimore,01-12-2018,
+1449,Hunfredo Burgyn,Male,Baltimore,03-10-2018,
+1453,Neall Hulke,Male,Baltimore,29-04-2018,
+1467,Curran Gyorgy,Male,Baltimore,03-01-2018,
+1513,Renato Richie,Male,Baltimore,18-11-2018,
+1522,Edik Liffe,Male,Baltimore,28-05-2018,
+1544,Gawen Franzel,Male,Baltimore,12-07-2018,
+1553,Donnell Shapter,Male,Baltimore,12-09-2018,
+1568,Reube Ruckman,Male,Baltimore,09-04-2018,
+1581,Elmo Bromehed,Male,Baltimore,25-02-2018,
+1586,Dall Conechie,Male,Baltimore,09-05-2018,
+1618,Eldin Oakenfield,Male,Baltimore,04-04-2018,
+1656,Ode Drinkhall,Male,Baltimore,19-11-2018,
+1669,Shermy Ashling,Male,Baltimore,26-01-2019,
+1675,Glynn Powys,Male,Baltimore,07-02-2018,
+1684,Joachim Verny,Male,Baltimore,09-11-2018,
+1712,Kristofer Twell,Male,Baltimore,19-08-2018,
+1727,Karl Please,Male,Baltimore,26-06-2018,
+1739,Antonio Perone,Male,Baltimore,09-01-2019,
+1745,Kasper McGreary,Male,Baltimore,02-05-2018,
+1751,Urbano Baumadier,Male,Baltimore,07-01-2018,
+1755,Randall Mea,Male,Baltimore,09-08-2018,
+1760,Terrell Witton,Male,Baltimore,04-06-2018,
+1761,Sim Bradwell,Male,Baltimore,25-05-2018,
+1763,Charley Stroyan,Male,Baltimore,23-08-2018,
+1764,Niccolo Santori,Male,Baltimore,22-12-2018,
+1779,Grove Speedin,Male,Baltimore,28-05-2018,
+1783,Dalston O'Nion,Male,Baltimore,09-05-2018,
+1812,Axe Owlner,Male,Baltimore,09-02-2019,
+1830,Eustace Happs,Male,Baltimore,14-12-2018,
+1854,Garth Siemantel,Male,Baltimore,11-07-2018,
+1858,Dallon Sambrok,Male,Baltimore,17-09-2018,
+1862,Wylie Blanckley,Male,Baltimore,12-12-2018,
+1876,Walton Gusticke,Male,Baltimore,15-11-2018,
+1924,Lazare Gollin,Male,Baltimore,18-02-2019,
+1952,Samuele Storrah,Male,Baltimore,03-01-2018,
+1955,Chrisy Judgkins,Male,Baltimore,01-08-2018,
+2008,Thayne Chappelow,Male,Baltimore,31-12-2018,
+2023,Armand Beauvais,Male,Baltimore,01-02-2018,
+2027,Berne Nix,Male,Baltimore,29-09-2018,
+2032,Markus Westcot,Male,Baltimore,14-09-2018,
+7,Nicoli Claussen,Female,Washington DC,16-08-2018,
+18,Mora Dunkerton,Female,Washington DC,26-02-2018,
+38,Olympe Dawkes,Female,Washington DC,07-11-2018,
+56,Rozanna Layborn,Female,Washington DC,04-12-2018,
+77,Ebba Fitchell,Female,Washington DC,18-01-2019,
+126,Marylee Olanda,Female,Washington DC,02-03-2018,
+153,Gisella Loosley,Female,Washington DC,17-10-2018,
+174,Adena Dressel,Female,Washington DC,15-02-2019,
+233,Briny Rapps,Female,Washington DC,03-02-2018,
+238,Erminie Whatling,Female,Washington DC,19-05-2018,
+260,Letisha Leithgoe,Female,Washington DC,06-10-2018,
+271,Aggie Gawne,Female,Washington DC,06-01-2019,
+286,Starr Danielski,Female,Washington DC,10-01-2018,
+314,Sherie Venour,Female,Washington DC,14-09-2018,
+316,Dinnie Petruska,Female,Washington DC,29-07-2018,
+346,Dianna Heffernan,Female,Washington DC,15-04-2018,
+374,Sybille Muro,Female,Washington DC,04-01-2019,
+449,Dinnie McAree,Female,Washington DC,17-01-2019,
+485,Elora French,Female,Washington DC,17-10-2018,
+493,Juana Gregore,Female,Washington DC,21-09-2018,
+511,Susie Defrain,Female,Washington DC,16-02-2019,
+514,Fredra Deyes,Female,Washington DC,02-07-2018,
+518,Gert Standeven,Female,Washington DC,27-01-2018,
+527,Jacynth Goolden,Female,Washington DC,13-09-2018,
+604,Myrlene Braundt,Female,Washington DC,26-07-2018,
+611,Hendrika Espine,Female,Washington DC,02-10-2018,
+709,Eadith Tyre,Female,Washington DC,05-04-2018,
+729,Rowena Wernher,Female,Washington DC,02-06-2018,
+741,Shirlee Challener,Female,Washington DC,20-08-2018,
+749,Felicity Treher,Female,Washington DC,05-01-2018,
+764,Hildagard Prestage,Female,Washington DC,08-11-2018,
+808,Lorna Troth,Female,Washington DC,11-01-2018,
+813,Betteanne Corringham,Female,Washington DC,22-12-2018,
+817,Lucia Middlemist,Female,Washington DC,20-05-2018,
+819,Bobette Beetham,Female,Washington DC,03-06-2018,
+838,Renell Doumerque,Female,Washington DC,14-01-2019,
+843,Beret Jakoubec,Female,Washington DC,29-01-2018,
+879,Cristen Rastrick,Female,Washington DC,01-05-2018,
+926,Mariele Wartonby,Female,Washington DC,22-02-2018,
+939,Ardine Crayton,Female,Washington DC,15-02-2019,
+944,Casi Ellwell,Female,Washington DC,25-02-2019,
+984,Retha Haslam,Female,Washington DC,29-05-2018,
+1094,Mariele Abreheart,Female,Washington DC,28-11-2018,
+1106,Melita Ablett,Female,Washington DC,04-01-2019,
+1108,Carma Grob,Female,Washington DC,02-01-2018,
+1210,Gladys Clack,Female,Washington DC,27-10-2018,
+1219,Aloisia Vido,Female,Washington DC,05-05-2018,
+1235,Meade Proffitt,Female,Washington DC,21-02-2019,
+1244,Viviana Yewdall,Female,Washington DC,03-06-2018,
+1263,Siusan Cohr,Female,Washington DC,10-07-2018,
+1307,Dori Smalman,Female,Washington DC,27-10-2018,
+1333,Deane Snoddon,Female,Washington DC,01-01-2018,
+1360,Joellen Clilverd,Female,Washington DC,09-12-2018,
+1373,Annalee Narrie,Female,Washington DC,12-03-2018,
+1375,Nonnah Grishelyov,Female,Washington DC,10-01-2019,
+1383,Vinita Casewell,Female,Washington DC,05-12-2018,
+1403,Juditha Cholmondeley,Female,Washington DC,22-01-2018,
+1405,Sascha Wiltshear,Female,Washington DC,26-01-2019,
+1408,Alfi Dedon,Female,Washington DC,14-02-2019,
+1481,Teddi Tolland,Female,Washington DC,30-08-2018,
+1506,Ruthanne Mossom,Female,Washington DC,07-07-2018,
+1535,Lonni Wycherley,Female,Washington DC,18-09-2018,
+1562,Cheri Uebel,Female,Washington DC,23-08-2018,
+1585,Stephanie Gardener,Female,Washington DC,01-05-2018,
+1625,Brittan Merigeau,Female,Washington DC,08-02-2019,
+1650,Benedetta Stanbra,Female,Washington DC,16-11-2018,
+1668,Zonnya Buer,Female,Washington DC,31-05-2018,
+1694,Harrietta Kondrat,Female,Washington DC,06-02-2019,
+1700,Flor Vennard,Female,Washington DC,21-10-2018,
+1710,Leyla Kliemann,Female,Washington DC,26-06-2018,
+1714,Stoddard Dilleston,Female,Washington DC,21-01-2019,
+1719,Billi Fluger,Female,Washington DC,06-06-2018,
+1754,Merrielle Gerard,Female,Washington DC,28-11-2018,
+1775,Raychel Saggs,Female,Washington DC,20-12-2018,
+1780,Reggie Malafe,Female,Washington DC,22-01-2018,
+1794,Inge Yeld,Female,Washington DC,07-01-2019,
+1818,Eugenie Hellwing,Female,Washington DC,14-10-2018,
+1863,Annaliese Cavalier,Female,Washington DC,25-07-2018,
+1905,Nomi Soanes,Female,Washington DC,01-02-2018,
+1967,Edee O'Lehane,Female,Washington DC,01-03-2018,
+1968,Kendre Laye,Female,Washington DC,01-10-2018,
+1987,Stefa O'Hingerty,Female,Washington DC,16-12-2018,
+1995,Kassia Gimbrett,Female,Washington DC,07-08-2018,
+2022,Chiquita Hadley,Female,Washington DC,21-10-2018,
+2035,Carolyne Pounds,Female,Washington DC,09-06-2018,
+2037,Klarika Dodson,Female,Washington DC,17-06-2018,
+2053,Janey Sowle,Female,Washington DC,12-11-2018,
+2065,Shawna Meriott,Female,Washington DC,26-04-2018,
+13,Peter Pippin,Male,Washington DC,07-02-2019,
+27,Renard Shaddick,Male,Washington DC,08-06-2018,
+79,Barthel Sinnat,Male,Washington DC,07-01-2018,
+80,Steffen Eayrs,Male,Washington DC,10-06-2018,
+81,Murvyn Avrahamy,Male,Washington DC,26-03-2018,
+101,Broddie Threlfall,Male,Washington DC,29-10-2018,
+176,Gage Habbal,Male,Washington DC,09-01-2019,
+193,Barclay Joynt,Male,Washington DC,28-03-2018,
+243,Emanuele Harrop,Male,Washington DC,23-04-2018,
+262,Quentin Rawsthorne,Male,Washington DC,03-08-2018,
+267,Ricky McRitchie,Male,Washington DC,02-01-2019,
+287,Skippie Goulborn,Male,Washington DC,20-04-2018,
+311,Clemens Heinicke,Male,Washington DC,21-02-2019,
+331,Mandel Gayther,Male,Washington DC,12-02-2019,
+377,Claudianus Waldrum,Male,Washington DC,06-07-2018,
+378,Tan Freake,Male,Washington DC,23-08-2018,
+386,Eduard Andrieux,Male,Washington DC,05-08-2018,
+395,Gordon Cottill,Male,Washington DC,25-03-2018,
+416,Horatius Stanney,Male,Washington DC,21-05-2018,
+420,Ikey Britney,Male,Washington DC,26-07-2018,
+424,Gradeigh Minichillo,Male,Washington DC,07-07-2018,
+428,Roscoe Askie,Male,Washington DC,29-06-2018,
+436,Diego Foy,Male,Washington DC,19-01-2018,
+437,Alphard Jeffress,Male,Washington DC,04-01-2019,
+464,Edgard Maddams,Male,Washington DC,25-05-2018,
+468,Gunner Jouandet,Male,Washington DC,11-02-2018,
+482,Dale Gentry,Male,Washington DC,24-02-2018,
+538,Gran Rosin,Male,Washington DC,10-04-2018,
+562,Evan Hemstead,Male,Washington DC,01-01-2019,
+585,Barron Battram,Male,Washington DC,21-04-2018,
+614,Dennison Alkins,Male,Washington DC,05-05-2018,
+632,Darrell Gianulli,Male,Washington DC,13-10-2018,
+635,Bond Yaakov,Male,Washington DC,06-02-2018,
+652,Dew Seaborne,Male,Washington DC,19-09-2018,
+657,Pat Dudeney,Male,Washington DC,25-02-2019,
+664,Noby Crabbe,Male,Washington DC,22-02-2019,
+680,Tremain Follett,Male,Washington DC,05-10-2018,
+742,Dru Ikins,Male,Washington DC,06-05-2018,
+791,Cord Murtimer,Male,Washington DC,04-02-2018,
+796,Micky Abramof,Male,Washington DC,31-08-2018,
+812,Sinclare Wolstenholme,Male,Washington DC,27-08-2018,
+840,Duke Kerins,Male,Washington DC,08-11-2018,
+846,Frankie Borrel,Male,Washington DC,14-01-2019,
+856,Joseph Castanaga,Male,Washington DC,12-02-2019,
+878,Hartwell Pennuzzi,Male,Washington DC,30-01-2019,
+888,Bar Ovenden,Male,Washington DC,06-11-2018,
+894,Thaddeus Bridel,Male,Washington DC,08-08-2018,
+899,Brook Rojahn,Male,Washington DC,10-04-2018,
+918,Abran Lickorish,Male,Washington DC,28-09-2018,
+923,Oates Christou,Male,Washington DC,03-01-2019,
+927,Noel Willman,Male,Washington DC,25-07-2018,
+1042,Kevan Decaze,Male,Washington DC,22-05-2018,
+1114,Sandy Elsley,Male,Washington DC,15-05-2018,
+1115,Ripley Abramof,Male,Washington DC,24-04-2018,
+1119,Sinclare Buzek,Male,Washington DC,06-12-2018,
+1128,Dorian Lofty,Male,Washington DC,01-09-2018,
+1132,Dolf Pardy,Male,Washington DC,10-10-2018,
+1203,Wade Selkirk,Male,Washington DC,01-01-2018,
+1245,Pinchas Rubinlicht,Male,Washington DC,10-09-2018,
+1349,Berton Knobell,Male,Washington DC,27-02-2018,
+1371,Stanleigh Currin,Male,Washington DC,11-02-2019,
+1380,Lind Mityushkin,Male,Washington DC,19-07-2018,
+1392,Ty Craster,Male,Washington DC,23-12-2018,
+1427,Conroy Greneham,Male,Washington DC,05-12-2018,
+1428,Fransisco Senecaux,Male,Washington DC,04-09-2018,
+1440,Al Wiltshier,Male,Washington DC,17-01-2018,
+1458,Bentley Malcolm,Male,Washington DC,15-10-2018,
+1554,Brendan Enrietto,Male,Washington DC,14-11-2018,
+1573,Stevy Borrington,Male,Washington DC,06-12-2018,
+1578,Layton Snalham,Male,Washington DC,30-01-2018,
+1582,Shep Kynton,Male,Washington DC,06-05-2018,
+1594,Marwin Milillo,Male,Washington DC,11-07-2018,
+1605,Donnie Bartosiak,Male,Washington DC,09-10-2018,
+1653,Frederick Gurner,Male,Washington DC,02-05-2018,
+1674,Lucian Patridge,Male,Washington DC,25-09-2018,
+1676,Georgi McCloughlin,Male,Washington DC,29-08-2018,
+1689,Pearce Forre,Male,Washington DC,20-08-2018,
+1703,Bowie Piegrome,Male,Washington DC,27-10-2018,
+1704,Randall Dmitriev,Male,Washington DC,19-11-2018,
+1725,Foss McQuillan,Male,Washington DC,13-09-2018,
+1809,Vincenz Amis,Male,Washington DC,27-09-2018,
+1837,Ronnie Bagnold,Male,Washington DC,30-06-2018,
+1993,Mel Doge,Male,Washington DC,25-07-2018,
+1997,Rustie Lammenga,Male,Washington DC,04-04-2018,
+2014,Stu O'Sharkey,Male,Washington DC,09-07-2018,
+2019,Stanly Witherbed,Male,Washington DC,09-09-2018,
+2061,Alfons O'Sculley,Male,Washington DC,16-08-2018,
+20,Wynne Bucham,Female,Orlando,19-09-2018,
+63,Clair Bromhead,Female,Orlando,11-02-2018,
+70,Vikki Westcot,Female,Orlando,06-02-2018,
+134,Sofie Murney,Female,Orlando,30-03-2018,
+137,Jami Linfield,Female,Orlando,28-07-2018,
+160,Fredericka Lob,Female,Orlando,05-06-2018,
+163,Sashenka Hitzmann,Female,Orlando,21-07-2018,
+184,Daryn Gandy,Female,Orlando,26-08-2018,
+197,Hedvige Kemwal,Female,Orlando,04-08-2018,
+199,Ami Gresty,Female,Orlando,28-03-2018,
+226,Afton Manuele,Female,Orlando,11-11-2018,
+240,Novelia Strut,Female,Orlando,03-10-2018,
+300,Chryste Capozzi,Female,Orlando,24-01-2018,
+307,Adelaida Sommersett,Female,Orlando,24-04-2018,
+309,Gisele Jorn,Female,Orlando,20-01-2018,
+392,Fancy Belasco,Female,Orlando,18-02-2018,
+476,Olva Cornau,Female,Orlando,05-08-2018,
+481,Tracey Hazlegrove,Female,Orlando,16-07-2018,
+618,Ginnifer Yves,Female,Orlando,12-10-2018,
+623,Tisha Twinbourne,Female,Orlando,23-01-2019,
+645,Brande Martonfi,Female,Orlando,18-12-2018,
+683,Christine Dryburgh,Female,Orlando,20-06-2018,
+714,Glyn Ovesen,Female,Orlando,07-01-2019,
+715,Susanna Pirelli,Female,Orlando,04-02-2019,
+775,Sarena Jerzak,Female,Orlando,08-06-2018,
+784,Martita Moncreif,Female,Orlando,05-05-2018,
+803,Arleta Buckthorp,Female,Orlando,13-05-2018,
+905,Dorelle Dallicott,Female,Orlando,02-11-2018,
+910,Tessa Defraine,Female,Orlando,17-09-2018,
+986,Nonie Coldrick,Female,Orlando,14-09-2018,
+990,Jaquith Vannuccini,Female,Orlando,18-01-2019,
+1029,Ardisj Dumke,Female,Orlando,12-03-2018,
+1088,Latia Storck,Female,Orlando,24-03-2018,
+1100,Novelia Carcas,Female,Orlando,26-03-2018,
+1107,Martha Soares,Female,Orlando,01-01-2018,
+1116,Loni Guyet,Female,Orlando,12-06-2018,
+1118,Kerrill Reaper,Female,Orlando,06-02-2019,
+1125,Carlie Eggers,Female,Orlando,25-01-2019,
+1152,Norrie MacPhaden,Female,Orlando,04-04-2018,
+1164,Stephannie Trenouth,Female,Orlando,25-03-2018,
+1171,Karlie Cowope,Female,Orlando,03-05-2018,
+1256,Ashleigh Duggen,Female,Orlando,30-04-2018,
+1267,Guendolen Chase,Female,Orlando,14-09-2018,
+1278,Lorry Donaghy,Female,Orlando,25-11-2018,
+1311,Hyacinthie Rickis,Female,Orlando,25-03-2018,
+1344,Kai Birtley,Female,Orlando,13-04-2018,
+1362,Joelle Moylan,Female,Orlando,01-05-2018,
+1542,Dawn Fonteyne,Female,Orlando,26-01-2019,
+1545,Daisy Brand,Female,Orlando,11-06-2018,
+1678,Florette Mc Gee,Female,Orlando,24-08-2018,
+1736,Doro Kellard,Female,Orlando,29-08-2018,
+1753,Vida Vacher,Female,Orlando,27-11-2018,
+1842,Dulci Kleewein,Female,Orlando,16-12-2018,
+1852,Janine Pitford,Female,Orlando,28-04-2018,
+1882,Nessie Edes,Female,Orlando,11-06-2018,
+1886,Teressa Ratter,Female,Orlando,05-03-2018,
+1944,Brigit Proudlove,Female,Orlando,10-11-2018,
+1948,Caty Yewdale,Female,Orlando,16-07-2018,
+1961,Klarika Crosfeld,Female,Orlando,18-01-2019,
+11,Reamonn Reneke,Male,Orlando,24-06-2018,
+14,Mel Pennigar,Male,Orlando,12-06-2018,
+46,Corey Debney,Male,Orlando,12-10-2018,
+49,Patric Bunce,Male,Orlando,22-12-2018,
+72,Vincenz Thurlbourne,Male,Orlando,25-09-2018,
+140,Teddy Bugge,Male,Orlando,10-05-2018,
+151,Freeland Gentzsch,Male,Orlando,31-10-2018,
+152,Yorgo Summersett,Male,Orlando,11-02-2018,
+167,Somerset Gillie,Male,Orlando,06-07-2018,
+192,Mathias Blethin,Male,Orlando,19-03-2018,
+206,Alphard Lauret,Male,Orlando,20-06-2018,
+214,Greg Carnew,Male,Orlando,03-02-2018,
+218,Cirillo Cowe,Male,Orlando,04-02-2018,
+334,Garret Crunkhurn,Male,Orlando,06-11-2018,
+341,Pietro Jaram,Male,Orlando,28-09-2018,
+350,Lance Hagergham,Male,Orlando,11-12-2018,
+361,Cobbie Hubane,Male,Orlando,07-12-2018,
+397,Delainey Georgeson,Male,Orlando,09-12-2018,
+399,Barnaby Oldland,Male,Orlando,15-04-2018,
+406,Vanya Shellshear,Male,Orlando,16-02-2018,
+410,Niccolo Raven,Male,Orlando,21-08-2018,
+445,Alix Neiland,Male,Orlando,25-06-2018,
+471,Davon Asser,Male,Orlando,06-08-2018,
+473,Skipper Frantsev,Male,Orlando,17-02-2018,
+487,Killie Bolley,Male,Orlando,24-11-2018,
+502,Kenon Bhar,Male,Orlando,08-02-2019,
+521,Aldous Fernao,Male,Orlando,07-04-2018,
+532,Herb Dalgarnowch,Male,Orlando,16-12-2018,
+558,Harald Houten,Male,Orlando,13-03-2018,
+581,Angus Sculpher,Male,Orlando,12-02-2018,
+592,Papageno Roocroft,Male,Orlando,22-02-2019,
+593,Vincenty Ionnisian,Male,Orlando,19-08-2018,
+597,Isidore Lehrer,Male,Orlando,04-11-2018,
+648,Weidar Boland,Male,Orlando,30-04-2018,
+653,Muhammad Hiscoke,Male,Orlando,25-01-2019,
+679,Keane Burgum,Male,Orlando,24-02-2019,
+760,Jeffy Etienne,Male,Orlando,11-02-2018,
+766,Abram Strike,Male,Orlando,16-08-2018,
+793,Iver Roffe,Male,Orlando,22-07-2018,
+809,Prentice Tonks,Male,Orlando,12-01-2019,
+823,Korey Frostdyke,Male,Orlando,25-09-2018,
+867,Mathias Mengue,Male,Orlando,26-05-2018,
+903,Winifield Newcomb,Male,Orlando,05-06-2018,
+967,Janek Anstey,Male,Orlando,18-05-2018,
+987,Sebastien I'anson,Male,Orlando,04-05-2018,
+1007,Art Oram,Male,Orlando,27-01-2018,
+1019,Lambert Wesson,Male,Orlando,16-01-2019,
+1105,Iggie Hedditch,Male,Orlando,21-07-2018,
+1120,Nollie Amburgy,Male,Orlando,19-08-2018,
+1136,Garwood Kinze,Male,Orlando,22-02-2018,
+1182,Mycah Abbatini,Male,Orlando,12-03-2018,
+1192,Hailey Adie,Male,Orlando,19-04-2018,
+1280,Jerry Fleckness,Male,Orlando,09-02-2018,
+1292,Morly Handforth,Male,Orlando,11-06-2018,
+1306,Hermie Shapcott,Male,Orlando,02-03-2018,
+1411,Roderigo Halworth,Male,Orlando,17-09-2018,
+1417,Tally Payler,Male,Orlando,23-03-2018,
+1466,Linoel Mollene,Male,Orlando,09-09-2018,
+1501,Roderigo Eagles,Male,Orlando,12-05-2018,
+1533,Skyler Peter,Male,Orlando,02-09-2018,
+1574,Care Vasilyev,Male,Orlando,27-10-2018,
+1591,Arlen Betke,Male,Orlando,20-09-2018,
+1597,Selby Belhome,Male,Orlando,17-06-2018,
+1602,Neal Tulley,Male,Orlando,07-10-2018,
+1640,Marshall Thornthwaite,Male,Orlando,03-01-2018,
+1683,Renard Annetts,Male,Orlando,31-01-2019,
+1693,Quint Jee,Male,Orlando,28-02-2019,
+1721,Augustus Scolland,Male,Orlando,23-06-2018,
+1724,Torrin Pencott,Male,Orlando,06-11-2018,
+1733,Sigismundo Bedbrough,Male,Orlando,08-10-2018,
+1799,Feliks Clowser,Male,Orlando,16-05-2018,
+1813,Pryce Astridge,Male,Orlando,11-11-2018,
+1822,Berkie Biever,Male,Orlando,17-01-2019,
+1856,Iorgos Boeck,Male,Orlando,29-10-2018,
+1860,Lauritz Nisby,Male,Orlando,06-02-2019,
+1871,Vick Lathey,Male,Orlando,02-06-2018,
+1900,Niel Lumsdall,Male,Orlando,19-02-2019,
+1915,Brannon Sygrove,Male,Orlando,24-01-2018,
+2018,Ewan Arstall,Male,Orlando,03-01-2019,
+26,Dylan Georg,Male,Miami,12-02-2018,
+65,Barbaraanne Roback,Female,Miami,04-01-2018,
+76,Michell Nund,Female,Miami,28-02-2019,
+106,Dalis Tylor,Male,Miami,09-04-2018,
+107,Vikki Kinge,Female,Miami,10-09-2018,
+124,Filberte Nunns,Male,Miami,24-05-2018,
+129,Lynelle Sawford,Female,Miami,22-03-2018,
+141,Gillan Lebourn,Female,Miami,09-05-2018,
+142,Harriot Dudliston,Female,Miami,13-01-2018,
+159,Farlie Grief,Male,Miami,27-01-2019,
+169,Charin Yarranton,Female,Miami,21-05-2018,
+182,Bentlee Aucott,Male,Miami,12-09-2018,
+195,Abie Ralls,Male,Miami,20-05-2018,
+201,Joane Dwyer,Female,Miami,04-07-2018,
+221,Sheela de Mullett,Female,Miami,14-05-2018,
+252,Erick Rubenov,Male,Miami,20-06-2018,
+254,Krystle Itzcovich,Female,Miami,15-04-2018,
+258,Bryn Imlen,Male,Miami,07-04-2018,
+291,Linet Kenshole,Female,Miami,05-06-2018,
+306,Sammie Gladbeck,Male,Miami,09-02-2019,
+323,Dimitri MacKeeg,Male,Miami,03-09-2018,
+330,Carly Eveling,Male,Miami,22-03-2018,
+336,Pammy Charleston,Female,Miami,14-01-2018,
+389,Winston Gergher,Male,Miami,23-05-2018,
+405,Phylys Kinsman,Female,Miami,19-05-2018,
+419,Gaspar Caves,Male,Miami,06-01-2018,
+433,Freeland Deares,Male,Miami,25-03-2018,
+466,Ranee O'Concannon,Female,Miami,01-06-2018,
+469,Morgan Weigh,Male,Miami,24-03-2018,
+470,Harvey Puddan,Male,Miami,21-07-2018,
+497,Francyne Grindlay,Female,Miami,14-07-2018,
+505,Randie Brunone,Male,Miami,24-09-2018,
+517,Dyane Rikkard,Female,Miami,30-03-2018,
+531,Cale Dublin,Male,Miami,27-01-2019,
+550,Bobette Chamberlen,Female,Miami,06-03-2018,
+568,King Howorth,Male,Miami,08-11-2018,
+569,Flemming Lisciardelli,Male,Miami,25-06-2018,
+625,Lev Dottrell,Male,Miami,05-05-2018,
+626,Ansell Dymidowicz,Male,Miami,07-05-2018,
+639,Janette Simic,Female,Miami,05-12-2018,
+650,Cecil Zanelli,Female,Miami,23-02-2018,
+661,Hal Ebbutt,Male,Miami,27-07-2018,
+692,Thea Raulstone,Female,Miami,28-10-2018,
+705,Caitlin Craythorn,Female,Miami,17-12-2018,
+707,Emlyn Vaan,Female,Miami,09-01-2019,
+721,Phil Kaley,Male,Miami,06-04-2018,
+752,Meara Trustrie,Female,Miami,03-09-2018,
+781,Jo ann Epilet,Female,Miami,07-02-2018,
+783,Romeo Bache,Male,Miami,18-01-2019,
+824,Mona Dillinger,Female,Miami,01-02-2019,
+827,Gilli Dufoure,Female,Miami,28-02-2019,
+857,Janos Byas,Male,Miami,24-03-2018,
+880,Quintin O'Noland,Male,Miami,29-06-2018,
+900,Thomasa Penke,Female,Miami,07-12-2018,
+922,Carr Skokoe,Male,Miami,22-06-2018,
+930,Catlaina Deeks,Female,Miami,30-07-2018,
+950,Amelina Ciardo,Female,Miami,24-05-2018,
+961,Pascale Shayes,Male,Miami,02-01-2018,
+981,Geoffry Febry,Male,Miami,07-10-2018,
+992,Corette Castagnone,Female,Miami,17-01-2018,
+1005,Karney Jindra,Male,Miami,03-02-2018,
+1012,Allyce Grayling,Female,Miami,31-08-2018,
+1027,Vivienne Cristofari,Female,Miami,27-10-2018,
+1036,Had Hardy,Male,Miami,19-03-2018,
+1080,Booth Bradley,Male,Miami,10-04-2018,
+1082,Lara Fairlem,Female,Miami,18-02-2019,
+1111,Tiffi Rimmington,Female,Miami,22-06-2018,
+1121,Dionisio Moakson,Male,Miami,16-02-2019,
+1126,Skell Bloodworth,Male,Miami,27-12-2018,
+1131,Joela Hargess,Female,Miami,16-07-2018,
+1140,Devland Thackeray,Male,Miami,07-02-2019,
+1150,Othello Mound,Male,Miami,17-09-2018,
+1156,Seana Hasted,Female,Miami,01-01-2019,
+1167,Jayme Beckles,Female,Miami,08-09-2018,
+1180,Bibi Domanek,Female,Miami,23-07-2018,
+1231,Denni Stoffersen,Female,Miami,29-07-2018,
+1240,Lazarus Darey,Male,Miami,13-06-2018,
+1250,Emogene Plumb,Female,Miami,24-09-2018,
+1258,Ailyn Seldon,Female,Miami,28-01-2018,
+1268,Rae Orht,Female,Miami,26-07-2018,
+1273,Brita Columbine,Female,Miami,27-08-2018,
+1282,Caritta Hegley,Female,Miami,02-09-2018,
+1286,Tomasine Iacobassi,Female,Miami,16-02-2019,
+1288,Brynn Philcott,Female,Miami,26-04-2018,
+1297,Pete Duchart,Male,Miami,05-04-2018,
+1314,Kay Mollen,Female,Miami,15-08-2018,
+1319,Elnar Keyden,Male,Miami,03-02-2018,
+1340,Ransom Esmond,Male,Miami,31-07-2018,
+1379,Bartlett Leist,Male,Miami,10-03-2018,
+1394,Guillermo Paschke,Male,Miami,21-01-2019,
+1425,Beckie Blumfield,Female,Miami,17-04-2018,
+1448,Carlos Wellstood,Male,Miami,25-05-2018,
+1472,Kiley Murley,Male,Miami,29-08-2018,
+1475,Ileana Espino,Female,Miami,11-07-2018,
+1480,Brannon Yewdall,Male,Miami,16-04-2018,
+1520,Cyril Liddell,Male,Miami,30-05-2018,
+1547,Analise Wagge,Female,Miami,29-08-2018,
+1557,Ingrim Redmain,Male,Miami,09-08-2018,
+1607,Klement Castaignet,Male,Miami,06-01-2019,
+1613,Jose Sutty,Male,Miami,11-01-2018,
+1619,Hill Standrin,Male,Miami,14-08-2018,
+1621,Marinna Trussler,Female,Miami,09-03-2018,
+1624,Ambrosi Spain,Male,Miami,17-01-2018,
+1645,Esteban Lubeck,Male,Miami,05-02-2018,
+1662,Margi Pepperill,Female,Miami,05-02-2019,
+1664,Marion Ivery,Female,Miami,17-08-2018,
+1671,Edward Haysman,Male,Miami,28-12-2018,
+1692,Norbie McRoberts,Male,Miami,17-02-2019,
+1701,Avery Kenwyn,Male,Miami,14-05-2018,
+1728,Chicky Stive,Male,Miami,13-09-2018,
+1729,Ursulina McTrusty,Female,Miami,17-06-2018,
+1770,Wallache Caddick,Male,Miami,09-02-2018,
+1782,Chaim O'Dea,Male,Miami,01-02-2018,
+1881,Jule Stevings,Male,Miami,02-08-2018,
+1943,Edan Rawlinson,Male,Miami,15-12-2018,
+1974,Codi Foggo,Female,Miami,27-07-2018,
+1975,Veradis Peter,Female,Miami,14-05-2018,
+2016,Bondy Bradneck,Male,Miami,13-07-2018,
+52,Koren Callinan,Female,Boston,23-01-2018,
+60,Dulsea Gherardelli,Female,Boston,02-01-2018,
+98,Rochelle Haliburton,Female,Boston,26-02-2019,
+120,Emalee Braham,Female,Boston,01-04-2018,
+204,Lynna Parmeter,Female,Boston,04-12-2018,
+217,Clem Penke,Female,Boston,03-12-2018,
+308,Nathalia Jordin,Female,Boston,15-12-2018,
+328,Hollie Clinch,Female,Boston,24-03-2018,
+447,Jerrine Dietz,Female,Boston,21-04-2018,
+467,Kacy Gandey,Female,Boston,05-04-2018,
+475,Glynda Bidwell,Female,Boston,21-02-2019,
+631,George Castledine,Female,Boston,16-09-2018,
+717,Brit Evitts,Female,Boston,19-01-2019,
+732,Kaitlin McOwen,Female,Boston,05-08-2018,
+855,Karlene McLaren,Female,Boston,05-06-2018,
+885,Marita Goncaves,Female,Boston,31-12-2018,
+895,Melina Monte,Female,Boston,25-09-2018,
+901,Ginnie O'Fogarty,Female,Boston,20-07-2018,
+1011,Demetria Turnell,Female,Boston,07-06-2018,
+1061,Brenn Lonsdale,Female,Boston,20-11-2018,
+1069,Lila Cawthra,Female,Boston,26-03-2018,
+1074,Cassandra Haken,Female,Boston,13-11-2018,
+1172,Grissel Goodwill,Female,Boston,30-08-2018,
+1204,Caril Langham,Female,Boston,12-07-2018,
+1549,Loria Shalliker,Female,Boston,05-09-2018,
+1563,Thalia Parell,Female,Boston,05-04-2018,
+1590,Phillida Wrench,Female,Boston,08-10-2018,
+1635,Nicholle Lello,Female,Boston,16-02-2019,
+1673,Callie Duffus,Female,Boston,16-07-2018,
+1740,Sibella Thirlaway,Female,Boston,09-07-2018,
+1758,Peggy Dillway,Female,Boston,09-11-2018,
+1800,Petrina Surfleet,Female,Boston,15-01-2019,
+1829,Ann-marie Wanley,Female,Boston,23-12-2018,
+1949,Germaine Dufore,Female,Boston,10-12-2018,
+104,Merry Jephcote,Male,Boston,13-02-2019,
+116,Rolland Dandie,Male,Boston,26-07-2018,
+117,Payton Geater,Male,Boston,18-02-2019,
+121,Taddeusz Lerway,Male,Boston,26-07-2018,
+133,Morie Beecker,Male,Boston,15-11-2018,
+147,Muffin Simmonett,Male,Boston,12-03-2018,
+190,Gerrard Broader,Male,Boston,05-06-2018,
+202,Germain Danahar,Male,Boston,18-01-2019,
+211,Wakefield Abilowitz,Male,Boston,03-02-2019,
+275,Nikolos Phelipeaux,Male,Boston,25-03-2018,
+284,Loydie Sommerscales,Male,Boston,25-11-2018,
+339,Pascale Paulin,Male,Boston,27-08-2018,
+362,Titus Rippingale,Male,Boston,03-04-2018,
+382,Esme M'Chirrie,Male,Boston,19-02-2019,
+425,Baillie Whyffen,Male,Boston,05-07-2018,
+452,Chilton Spirritt,Male,Boston,21-04-2018,
+458,Brewster Alban,Male,Boston,10-09-2018,
+462,Rriocard Schoolcroft,Male,Boston,18-05-2018,
+465,Edouard Westhofer,Male,Boston,15-07-2018,
+477,Jdavie Camock,Male,Boston,25-02-2018,
+508,Natal Hubbock,Male,Boston,30-03-2018,
+510,Rodrigo D'Almeida,Male,Boston,13-09-2018,
+520,Anson Glasner,Male,Boston,14-03-2018,
+595,Jordan Middle,Male,Boston,25-02-2018,
+616,Hunter Bessell,Male,Boston,31-07-2018,
+700,Erie Holttom,Male,Boston,03-08-2018,
+731,Rory Syncke,Male,Boston,04-11-2018,
+780,Olly Ryley,Male,Boston,03-07-2018,
+786,Archy Bezzant,Male,Boston,21-07-2018,
+834,Peyter Feathersby,Male,Boston,01-06-2018,
+859,Gary Antonsen,Male,Boston,22-02-2018,
+889,Max St Leger,Male,Boston,18-01-2018,
+904,Delainey Waugh,Male,Boston,08-03-2018,
+933,Holmes Chaudhry,Male,Boston,09-08-2018,
+996,Cirstoforo Sonnenschein,Male,Boston,27-11-2018,
+1022,Winny Stubley,Male,Boston,28-01-2018,
+1024,Rochester Walls,Male,Boston,02-08-2018,
+1028,Chen Giacomuzzo,Male,Boston,10-09-2018,
+1034,Dorie Doddemeade,Male,Boston,19-07-2018,
+1039,Matt Nevet,Male,Boston,07-09-2018,
+1077,Dani Fry,Male,Boston,02-08-2018,
+1148,Culver Lyffe,Male,Boston,19-03-2018,
+1228,Esme Simak,Male,Boston,11-05-2018,
+1246,Ferris Timby,Male,Boston,14-01-2018,
+1283,Isador Bank,Male,Boston,31-05-2018,
+1298,Tadd Wilfinger,Male,Boston,22-07-2018,
+1322,Timotheus Sparkwill,Male,Boston,06-01-2019,
+1401,Terencio Greensite,Male,Boston,15-10-2018,
+1439,Chaunce Brogden,Male,Boston,02-06-2018,
+1445,Worth Daley,Male,Boston,02-01-2018,
+1459,Keefer Petrowsky,Male,Boston,02-10-2018,
+1460,Dal Eginton,Male,Boston,27-02-2018,
+1473,Clemens Brydson,Male,Boston,27-02-2019,
+1482,Mickie Maitland,Male,Boston,27-09-2018,
+1487,Reg Measham,Male,Boston,27-09-2018,
+1489,Vick Hammerich,Male,Boston,28-04-2018,
+1494,Cory Seathwright,Male,Boston,16-11-2018,
+1496,Locke Ridgedell,Male,Boston,16-10-2018,
+1502,Oliviero Ferronier,Male,Boston,24-03-2018,
+1509,Cyrillus Fautly,Male,Boston,19-06-2018,
+1514,Herbert Egalton,Male,Boston,18-09-2018,
+1548,Forester Ilyinski,Male,Boston,18-11-2018,
+1639,Simmonds Rigmond,Male,Boston,23-10-2018,
+1666,Errol Bracken,Male,Boston,19-12-2018,
+1670,Sidney Haslock,Male,Boston,19-12-2018,
+1722,Lev Jakubowski,Male,Boston,04-03-2018,
+1735,Milo Olivera,Male,Boston,15-07-2018,
+1805,Boy Lowing,Male,Boston,16-01-2018,
+1973,Clayson Scini,Male,Boston,12-01-2019,
+2003,Janek Adam,Male,Boston,15-04-2018,
+2010,Vasilis Laweles,Male,Boston,04-05-2018,
+2044,Bryan Feldman,Male,Boston,21-02-2019,
+2062,Emanuel Quilleash,Male,Boston,25-02-2018,
+12,Kassandra Gounot,Female,Boston,01-05-2018,12-02-2019
+16,Lutero Hugk,Male,Miami,07-04-2018,23-09-2018
+19,Kristoffer Askam,Male,Washington DC,01-10-2018,15-10-2018
+32,Orville Tessyman,Male,Boston,11-08-2018,15-10-2018
+36,Chucho Salamon,Male,Washington DC,09-04-2018,08-12-2018
+47,Mitch Harlett,Male,Washington DC,30-01-2018,31-01-2019
+53,Carolyn Courtman,Female,Orlando,25-07-2018,25-02-2019
+75,Derron Spurden,Male,Orlando,01-01-2018,15-11-2018
+84,Giraud Cogan,Male,Boston,14-04-2018,07-01-2019
+86,Giff Claussen,Male,Miami,25-04-2018,13-02-2019
+88,Wally Verni,Female,Boston,01-02-2019,28-02-2019
+97,Iver Sabberton,Male,Miami,09-02-2018,28-02-2019
+158,Shawn Genicke,Female,Washington DC,01-02-2019,18-02-2019
+162,Briano Bascomb,Male,Boston,24-02-2019,25-02-2019
+179,Chickie Holdren,Male,Boston,01-03-2018,25-05-2018
+228,Jo Gerard,Male,Orlando,27-12-2018,15-02-2019
+230,Amandi Tallow,Female,Orlando,12-11-2018,29-12-2018
+239,Kathryn Harfoot,Female,Miami,18-03-2018,11-06-2018
+241,Clarence Bellfield,Male,Washington DC,05-10-2018,22-12-2018
+244,Tracie Baiss,Female,Orlando,31-01-2019,21-02-2019
+248,Petey MacAlester,Male,Washington DC,03-01-2018,18-07-2018
+269,Felicia Vergine,Female,Boston,05-01-2019,05-02-2019
+270,Chic Bentall,Male,Boston,24-10-2018,09-12-2018
+273,Abbye Carus,Female,Washington DC,09-08-2018,25-11-2018
+277,Giacopo Thomassin,Male,Boston,09-03-2018,29-09-2018
+281,Jayme Snaddin,Female,Orlando,03-06-2018,02-08-2018
+292,Smitty Hindmore,Male,Miami,18-11-2018,16-12-2018
+296,Drugi Tredgold,Male,Washington DC,12-07-2018,28-08-2018
+299,Ethan Pudsey,Male,Miami,17-05-2018,11-09-2018
+312,Mariana Whichelow,Female,Washington DC,09-02-2018,15-12-2018
+327,Becca Streatfield,Female,Orlando,30-10-2018,19-01-2019
+329,Ansell Stancer,Male,Miami,01-11-2018,13-02-2019
+342,Janeva Voice,Female,Boston,21-04-2018,27-10-2018
+355,Ring Solomonides,Male,Boston,26-12-2018,20-02-2019
+367,Beauregard Mackinder,Male,Washington DC,08-09-2018,06-01-2019
+387,Marie Jellard,Female,Miami,01-05-2018,05-12-2018
+390,Skippie Olivie,Male,Boston,03-08-2018,03-01-2019
+391,Roderich Berridge,Male,Orlando,02-02-2018,07-12-2018
+393,Moira Leaman,Female,Miami,09-10-2018,26-02-2019
+404,Hayes Tybalt,Male,Boston,10-02-2019,20-02-2019
+408,Granger Ploughwright,Male,Washington DC,23-05-2018,30-07-2018
+412,Barbie Punt,Female,Washington DC,06-11-2018,14-02-2019
+417,Garrik Larvin,Male,Boston,06-11-2018,15-11-2018
+423,Milton Nornasell,Male,Miami,25-07-2018,30-10-2018
+441,Kandy Pessold,Female,Orlando,21-07-2018,15-09-2018
+448,Adamo Rising,Male,Boston,19-11-2018,26-02-2019
+460,Warren Varne,Male,Washington DC,26-04-2018,18-12-2018
+478,Gabbie Dummigan,Male,Boston,05-05-2018,24-12-2018
+483,Alanah McDiarmid,Female,Orlando,31-08-2018,15-12-2018
+488,Cathi Unitt,Female,Boston,31-08-2018,21-11-2018
+492,Kippie MacCard,Female,Orlando,04-01-2018,08-09-2018
+498,Beverlie Whitelock,Female,Boston,08-11-2018,09-11-2018
+522,Gui Keems,Female,Miami,22-06-2018,23-07-2018
+525,Alla Tomczykiewicz,Female,Orlando,18-07-2018,10-08-2018
+534,Benjamin Oloshin,Male,Washington DC,22-10-2018,12-01-2019
+536,Marlowe Flieger,Male,Miami,28-02-2019,28-02-2019
+546,Peggi Langford,Female,Orlando,16-10-2018,10-01-2019
+555,Ferdinand Wickie,Male,Miami,16-12-2018,21-01-2019
+566,Everard Ludford,Male,Washington DC,11-01-2018,04-01-2019
+579,Lucine Oby,Female,Orlando,30-01-2019,18-02-2019
+590,Sophi Kirkhouse,Female,Washington DC,17-01-2019,20-02-2019
+591,Bel Mulvany,Female,Orlando,10-02-2019,20-02-2019
+602,Sigismondo Pinnegar,Male,Washington DC,04-03-2018,14-03-2018
+612,Loy Surtees,Male,Miami,29-01-2019,15-02-2019
+630,Justine Beisley,Female,Washington DC,22-06-2018,02-12-2018
+641,Saunderson Rosgen,Male,Boston,01-04-2018,12-07-2018
+649,Kristos O'Canavan,Male,Miami,09-10-2018,27-02-2019
+665,Vernice Budgey,Female,Orlando,18-11-2018,22-12-2018
+667,Lissy Couroy,Female,Orlando,13-04-2018,29-07-2018
+684,Maxie Steckings,Female,Washington DC,31-03-2018,21-08-2018
+690,Mamie Yankishin,Female,Boston,24-11-2018,21-01-2019
+722,Iolanthe O'Flaverty,Female,Boston,02-11-2018,12-12-2018
+723,Nicolis Raiman,Male,Washington DC,25-07-2018,09-09-2018
+727,Brnaby Linneman,Male,Miami,01-02-2019,27-02-2019
+758,Helsa Glanvill,Female,Orlando,10-03-2018,12-04-2018
+787,Pat Mingauld,Female,Washington DC,29-11-2018,25-12-2018
+800,Winfield Cortes,Male,Orlando,22-10-2018,28-01-2019
+815,Layla Hardaway,Female,Boston,09-12-2018,03-01-2019
+826,Agathe Frantzeni,Female,Miami,22-12-2018,01-02-2019
+829,Xena Witherdon,Female,Miami,24-02-2019,24-02-2019
+830,Cassy Jambrozek,Female,Miami,31-05-2018,09-07-2018
+833,Karlik Jenney,Male,Boston,16-06-2018,08-02-2019
+862,Kendal Bonds,Male,Boston,21-08-2018,15-12-2018
+868,Piggy Soles,Male,Orlando,26-12-2018,21-01-2019
+881,Hendrik Crumly,Male,Boston,28-08-2018,30-11-2018
+945,Bary McGorman,Male,Miami,10-08-2018,01-01-2019
+951,Marlin O'Spillane,Male,Washington DC,13-10-2018,01-02-2019
+976,Ian Tales,Male,Washington DC,23-01-2018,22-09-2018
+983,Maurice Hawking,Male,Miami,07-07-2018,24-02-2019
+985,Mia Martin,Female,Miami,25-02-2019,26-02-2019
+1001,Elnore Farmar,Female,Washington DC,13-12-2018,03-01-2019
+1003,Karlis Neilan,Male,Boston,15-05-2018,31-07-2018
+1015,Hoebart Geaves,Male,Miami,14-02-2019,14-02-2019
+1016,Frasquito Harbard,Male,Washington DC,04-09-2018,13-01-2019
+1037,Crissie Learmond,Female,Boston,25-10-2018,28-11-2018
+1056,Fredrick Dunnion,Male,Orlando,28-07-2018,19-12-2018
+1079,Annadiana Wanklyn,Female,Washington DC,12-12-2018,05-01-2019
+1098,Rickert Kitcat,Male,Washington DC,06-07-2018,20-11-2018
+1101,Margarette Canadas,Female,Washington DC,13-07-2018,24-12-2018
+1127,Ly Attarge,Male,Orlando,31-03-2018,14-01-2019
+1154,Noel Held,Male,Boston,26-01-2018,28-06-2018
+1157,Rod Kall,Male,Washington DC,03-11-2018,10-01-2019
+1165,Saraann Shrubsall,Female,Orlando,25-02-2018,26-11-2018
+1196,Lynelle Evershed,Female,Washington DC,16-12-2018,29-01-2019
+1198,Torrance Arboine,Male,Miami,17-03-2018,05-02-2019
+1200,Ailbert McIlwrath,Male,Orlando,15-01-2018,01-05-2018
+1218,Gamaliel Kelbie,Male,Miami,15-06-2018,15-06-2018
+1221,Viki Caitlin,Female,Washington DC,23-11-2018,14-12-2018
+1257,Bertie Zambonini,Female,Miami,31-10-2018,12-11-2018
+1295,Emery Breinlein,Male,Boston,27-02-2018,23-05-2018
+1299,Iorgo Philpotts,Male,Miami,04-02-2018,18-10-2018
+1312,Antoni Gore,Male,Orlando,08-11-2018,16-01-2019
+1318,Alyss Garnham,Female,Washington DC,27-11-2018,21-12-2018
+1334,Annalee Scholler,Female,Washington DC,20-07-2018,26-09-2018
+1377,Turner O'Neal,Male,Orlando,08-05-2018,30-09-2018
+1397,Alric Goodsir,Male,Miami,22-02-2019,24-02-2019
+1433,Wrennie Hardy-Piggin,Female,Orlando,19-12-2018,16-01-2019
+1434,Anne-marie Brandsen,Female,Orlando,08-09-2018,22-01-2019
+1464,Calla Pellew,Female,Orlando,02-08-2018,10-02-2019
+1469,Caye Flowitt,Female,Washington DC,16-02-2019,21-02-2019
+1477,Feodor Byrne,Male,Washington DC,24-10-2018,24-02-2019
+1483,Colet Escolme,Male,Miami,02-05-2018,23-07-2018
+1534,Xever Fanthome,Male,Boston,09-05-2018,20-09-2018
+1572,Ilse Janaszewski,Female,Orlando,21-11-2018,09-02-2019
+1596,Hallie Matterface,Female,Orlando,17-02-2019,17-02-2019
+1599,Willis Gegay,Male,Orlando,20-12-2018,05-01-2019
+1601,Dalenna Lockner,Female,Washington DC,22-10-2018,30-12-2018
+1606,Jeanie Branson,Female,Washington DC,01-01-2018,22-04-2018
+1611,Randee Southorn,Female,Washington DC,19-02-2018,04-03-2018
+1614,Moselle Brunker,Female,Boston,06-07-2018,22-11-2018
+1622,Chantalle Strutz,Female,Boston,23-12-2018,02-02-2019
+1649,Merrick Bloxsom,Male,Washington DC,17-03-2018,17-05-2018
+1657,Nancee Gear,Female,Boston,01-10-2018,01-12-2018
+1661,Roxie Hastler,Female,Orlando,22-01-2019,04-02-2019
+1667,Noelani Feasey,Female,Orlando,17-08-2018,18-09-2018
+1677,Anabelle Greguoli,Female,Orlando,13-08-2018,28-01-2019
+1696,Jakie Littlejohn,Male,Miami,12-10-2018,11-11-2018
+1697,Tamma McLaughlan,Female,Boston,22-09-2018,22-11-2018
+1698,Whitney Boscott,Male,Orlando,09-07-2018,19-09-2018
+1706,Berti Besse,Female,Washington DC,05-06-2018,25-08-2018
+1708,Gilemette Croll,Female,Orlando,18-09-2018,16-11-2018
+1731,Dell Neale,Female,Washington DC,11-02-2019,21-02-2019
+1744,Flory Sepey,Female,Boston,30-11-2018,07-02-2019
+1749,Gayelord Lenahan,Male,Orlando,01-11-2018,09-12-2018
+1752,Guillema Whitnall,Female,Washington DC,10-02-2019,10-02-2019
+1762,Darryl Grundon,Male,Boston,02-12-2018,19-02-2019
+1767,Devan Bridgnell,Female,Boston,08-12-2018,03-01-2019
+1768,Alyosha Giacobelli,Male,Washington DC,27-04-2018,11-01-2019
+1772,Ranique Haggus,Female,Boston,03-12-2018,29-12-2018
+1774,Natty Papworth,Female,Washington DC,16-12-2018,19-01-2019
+1784,Melania Nelles,Female,Miami,30-11-2018,10-02-2019
+1790,Derril Tethacot,Male,Orlando,26-11-2018,05-02-2019
+1802,Helyn Petyanin,Female,Washington DC,24-01-2019,22-02-2019
+1826,Janie Blandford,Female,Washington DC,30-07-2018,20-11-2018
+1835,Gavan Thowless,Male,Boston,02-05-2018,04-12-2018
+1839,Audie Noli,Female,Miami,30-07-2018,04-08-2018
+1844,Mathias Ghidoli,Male,Washington DC,02-12-2018,01-02-2019
+1853,Bernardina Mackrill,Female,Orlando,21-01-2018,27-11-2018
+1859,Temple Syalvester,Male,Washington DC,14-12-2018,04-02-2019
+1869,Vladamir Benardette,Male,Washington DC,03-02-2019,03-02-2019
+1870,Giovanni Crankshaw,Male,Washington DC,18-08-2018,25-01-2019
+1873,Annabelle Nerval,Female,Miami,23-07-2018,31-07-2018
+1878,Casper Lisimore,Male,Washington DC,24-07-2018,07-11-2018
+1880,Gradey Geroldini,Male,Washington DC,15-02-2019,22-02-2019
+1890,Ursula Daouse,Female,Boston,22-10-2018,20-02-2019
+1908,Krissie Frier,Female,Miami,09-01-2019,23-01-2019
+1911,Chicky Buckthorpe,Male,Orlando,23-07-2018,04-01-2019
+1912,Janka Langshaw,Female,Orlando,10-02-2018,23-02-2018
+1934,Mathilda Benedick,Female,Boston,30-10-2018,14-01-2019
+1935,Adrienne Gething,Female,Miami,30-04-2018,06-01-2019
+1938,Kellia Bewly,Female,Washington DC,29-05-2018,27-02-2019
+1941,Clarette Yesenev,Female,Miami,05-04-2018,23-07-2018
+1947,Rolfe Niset,Male,Washington DC,27-07-2018,06-01-2019
+1956,Bonny Mcall,Female,Miami,11-04-2018,17-09-2018
+1965,Gav Ebdon,Male,Washington DC,05-03-2018,22-06-2018
+1979,Row Kubica,Female,Washington DC,03-01-2018,25-03-2018
+2000,Kelcey Krysztowczyk,Female,Orlando,29-10-2018,17-12-2018
+2007,Zechariah Mowling,Male,Washington DC,18-12-2018,19-12-2018
+2012,Kakalina Pringle,Female,Washington DC,27-12-2018,02-01-2019
+2015,Dillie Pritchett,Male,Orlando,18-09-2018,14-11-2018
+2021,Jae Guiot,Male,Washington DC,01-05-2018,10-01-2019
+2038,Barron Handasyde,Male,Miami,08-10-2018,23-12-2018
+2046,Burch Ferrario,Male,Orlando,02-11-2018,28-12-2018
+2054,Toiboid Burges,Male,Washington DC,11-05-2018,15-05-2018
+4,Viola Jerzak,Female,New York,05-09-2018,14-09-2018
+35,Adams Dirand,Male,New York,27-06-2018,14-02-2019
+39,Bil Foad,Male,New York,14-06-2018,12-11-2018
+40,Amelita Chambers,Female,New York,23-01-2018,22-06-2018
+41,Janaye Roath,Female,New York,16-05-2018,24-11-2018
+57,Pen Baynham,Female,New York,12-02-2018,19-12-2018
+103,Drusi Darrell,Female,New York,19-02-2018,25-08-2018
+110,Crissy Darrigrand,Female,New York,17-08-2018,27-02-2019
+138,Ernest Gadaud,Male,New York,28-02-2018,09-01-2019
+150,Dasha Matteini,Female,New York,27-09-2018,22-11-2018
+164,Mikaela Libby,Female,New York,23-01-2019,07-02-2019
+178,Maiga Persian,Female,New York,28-08-2018,03-02-2019
+411,Charlena Knowles,Female,New York,18-08-2018,02-10-2018
+422,Giraud Prevett,Male,New York,10-09-2018,04-12-2018
+439,Jorge Musso,Male,New York,05-05-2018,14-05-2018
+444,Olenolin Phelp,Male,New York,13-03-2018,15-07-2018
+446,Ellwood Storch,Male,New York,27-02-2018,14-06-2018
+494,Esme Scanderet,Female,New York,20-01-2019,23-01-2019
+495,Rosella Hurdle,Female,New York,17-01-2019,25-01-2019
+496,Gerard Renault,Male,New York,08-12-2018,20-02-2019
+499,Kenyon Edis,Male,New York,14-09-2018,03-02-2019
+564,Hedi Honniebal,Female,New York,21-02-2018,25-06-2018
+573,Parry Gunby,Male,New York,09-01-2019,08-02-2019
+580,Gray Angood,Female,New York,18-09-2018,28-10-2018
+600,Catherina Gosnoll,Female,New York,05-05-2018,15-09-2018
+634,Consuela Errichiello,Female,New York,03-11-2018,19-12-2018
+776,Star Valiant,Female,New York,20-01-2019,19-02-2019
+785,Roosevelt Smallcomb,Male,New York,31-10-2018,29-01-2019
+792,Ruperto Packe,Male,New York,10-03-2018,18-02-2019
+806,Eunice Skakunas,Female,New York,05-01-2018,03-06-2018
+847,Tatum Bittleson,Female,New York,29-01-2019,24-02-2019
+848,Giles Tunstall,Male,New York,03-09-2018,16-11-2018
+854,Emmy Carnall,Female,New York,30-10-2018,19-01-2019
+865,Aluin Brougham,Male,New York,28-08-2018,12-02-2019
+893,Hadley Baradel,Male,New York,03-01-2019,10-01-2019
+958,Chase Eblein,Male,New York,04-09-2018,12-02-2019
+995,Nevins Nibley,Male,New York,27-01-2018,09-02-2018
+998,Eberto Fewkes,Male,New York,12-11-2018,23-02-2019
+1014,Emily Kendall,Female,New York,27-02-2019,27-02-2019
+1025,Magdalena Proswell,Female,New York,02-02-2019,13-02-2019
+1066,Uri Davidi,Male,New York,29-08-2018,16-09-2018
+1068,Bertie Holyard,Male,New York,25-11-2018,30-11-2018
+1076,Lois Van den Velden,Female,New York,17-12-2018,25-01-2019
+1109,Herschel Loughhead,Male,New York,23-09-2018,24-02-2019
+1143,Matthew Wornham,Male,New York,02-01-2019,13-01-2019
+1163,Cristabel Bullivent,Female,New York,17-04-2018,05-10-2018
+1215,Bank Adnam,Male,New York,28-10-2018,26-11-2018
+1242,Thibaut McKinnon,Male,New York,12-09-2018,13-02-2019
+1289,Fran Nelissen,Female,New York,08-10-2018,25-11-2018
+1293,Brigg Rubinovitsch,Male,New York,08-11-2018,27-11-2018
+1324,Chaddie Gascoigne,Male,New York,15-02-2019,18-02-2019
+1355,Eli Bein,Male,New York,01-06-2018,24-01-2019
+1415,Jeremy Skellion,Male,New York,16-08-2018,23-10-2018
+1430,Gabby Burnsall,Male,New York,06-01-2018,14-01-2018
+1436,Corrie Goldsmith,Male,New York,31-01-2018,02-06-2018
+1504,Mal Sowrah,Male,New York,14-02-2018,26-02-2018
+1523,Christi Rich,Female,New York,16-01-2018,14-07-2018
+1569,Gerri Pendrey,Female,New York,25-04-2018,25-04-2018
+1576,Meg Anan,Female,New York,24-02-2019,26-02-2019
+1577,Sid Romi,Male,New York,27-06-2018,12-01-2019
+1587,Chaim Rendbaek,Male,New York,24-10-2018,06-11-2018
+1612,Ivar Vawton,Male,New York,13-12-2018,22-12-2018
+1627,Irwin Peyton,Male,New York,28-11-2018,31-12-2018
+1655,Richy Corah,Male,New York,07-01-2019,22-01-2019
+1658,Dave Bottle,Male,New York,01-12-2018,12-02-2019
+1665,Terrye Bencher,Female,New York,14-07-2018,31-07-2018
+1702,Lorne Bracher,Male,New York,17-12-2018,19-01-2019
+1734,Cora Aireton,Female,New York,11-12-2018,27-02-2019
+1737,Dana Dufour,Male,New York,12-06-2018,17-08-2018
+1756,Jena Joysey,Female,New York,14-12-2018,06-01-2019
+1771,Aile Barrett,Female,New York,24-05-2018,15-12-2018
+1797,Lesli Parades,Female,New York,01-12-2018,01-12-2018
+1814,Chrisy Kettel,Male,New York,28-07-2018,28-12-2018
+1883,Charmine Brittle,Female,New York,18-06-2018,25-10-2018
+1903,Charita Bartoleyn,Female,New York,04-07-2018,30-09-2018
+1922,Benjamin Riall,Male,New York,25-11-2018,21-02-2019
+1931,Randolf Springett,Male,New York,12-09-2018,23-12-2018
+1933,Jessee Currey,Male,New York,26-02-2018,24-07-2018
+1937,Bordie Ivanov,Male,New York,26-02-2019,27-02-2019
+1970,Konstantin Hooke,Male,New York,20-09-2018,31-10-2018
+1972,Shea Gaish,Male,New York,09-01-2019,22-01-2019
+1981,Sax Whittington,Male,New York,08-02-2019,19-02-2019
+1982,Kym Alpine,Female,New York,17-12-2018,10-02-2019
+1996,Aindrea Betz,Female,New York,11-02-2018,26-07-2018
+1998,Ailis Trevance,Female,New York,20-10-2018,02-12-2018
+2048,Vinni Papaccio,Female,New York,05-07-2018,26-12-2018
+2068,Mignon Andraud,Female,New York,30-08-2018,20-11-2018
+2,Louisa Itscowicz,Female,Baltimore,22-08-2018,11-01-2019
+21,Simmonds Pond,Male,Baltimore,14-04-2018,02-11-2018
+22,Alonzo Wardle,Male,Baltimore,06-10-2018,06-10-2018
+55,Lothario Lyst,Male,Baltimore,20-06-2018,26-08-2018
+96,Edin Sargison,Female,Baltimore,25-08-2018,09-02-2019
+119,Braden Berends,Male,Baltimore,02-06-2018,10-10-2018
+128,Alecia Boswell,Female,Baltimore,26-09-2018,12-10-2018
+148,Nanice Bucke,Female,Baltimore,13-02-2018,25-04-2018
+165,Mada Alessandrucci,Female,Baltimore,18-01-2018,11-03-2018
+175,Stacey Meneer,Female,Baltimore,11-07-2018,16-08-2018
+177,Georgiana Waison,Female,Baltimore,12-04-2018,21-11-2018
+207,Georgy Gostridge,Male,Baltimore,07-02-2018,24-04-2018
+256,Juanita Coventry,Female,Baltimore,09-05-2018,06-06-2018
+283,Norris MacMenamin,Male,Baltimore,29-12-2018,04-02-2019
+293,Edd Comer,Male,Baltimore,12-06-2018,17-02-2019
+337,Heall Downes,Male,Baltimore,25-12-2018,05-01-2019
+340,Bram Corneille,Male,Baltimore,25-01-2018,02-03-2018
+363,Raine Tineman,Female,Baltimore,12-08-2018,22-11-2018
+421,Lena Ellingham,Female,Baltimore,07-01-2019,23-02-2019
+426,Merrill Heiss,Female,Baltimore,03-12-2018,22-01-2019
+500,Husain Phillcox,Male,Baltimore,21-08-2018,26-10-2018
+548,Holly-anne Chopping,Female,Baltimore,24-11-2018,10-12-2018
+551,Flo Brockhouse,Female,Baltimore,08-08-2018,12-10-2018
+601,Philippa Georgot,Female,Baltimore,28-06-2018,17-09-2018
+608,Mathe Arnell,Male,Baltimore,12-08-2018,20-09-2018
+613,Davidson Francey,Male,Baltimore,09-06-2018,27-01-2019
+622,Brennan Beardsall,Male,Baltimore,18-04-2018,15-02-2019
+669,Olav Walliker,Male,Baltimore,23-06-2018,02-11-2018
+698,Shanda Shortell,Female,Baltimore,07-10-2018,02-11-2018
+762,Deanne Rantoull,Female,Baltimore,29-07-2018,02-12-2018
+763,Bertha Simeonov,Female,Baltimore,24-08-2018,27-11-2018
+799,Kalila Rides,Female,Baltimore,10-02-2018,12-06-2018
+804,Craggy Somerset,Male,Baltimore,22-03-2018,13-07-2018
+807,Vallie Tamblyn,Female,Baltimore,19-03-2018,25-04-2018
+825,Erie Chadwen,Male,Baltimore,30-06-2018,03-02-2019
+872,Page Creamer,Female,Baltimore,04-04-2018,16-01-2019
+875,Weston Lowthorpe,Male,Baltimore,20-08-2018,22-11-2018
+902,Diana Akers,Female,Baltimore,30-06-2018,13-09-2018
+911,Wendeline Sackur,Female,Baltimore,12-12-2018,17-01-2019
+932,Shermy Attenborrow,Male,Baltimore,10-02-2018,20-01-2019
+941,Jewelle Arbuckle,Female,Baltimore,11-02-2019,12-02-2019
+982,Olympie Lanyon,Female,Baltimore,28-05-2018,27-06-2018
+1018,Joshuah Ingham,Male,Baltimore,03-04-2018,28-05-2018
+1045,Jaymie Pegler,Male,Baltimore,04-05-2018,19-02-2019
+1060,Kain Hedditeh,Male,Baltimore,06-12-2018,12-02-2019
+1113,Barb Tomkinson,Female,Baltimore,31-01-2018,04-07-2018
+1117,Armand Carlesi,Male,Baltimore,23-03-2018,04-10-2018
+1160,Julissa Dulwich,Female,Baltimore,28-12-2018,11-02-2019
+1185,Jehanna Wittey,Female,Baltimore,24-08-2018,10-10-2018
+1220,Jammal Markus,Male,Baltimore,23-09-2018,14-12-2018
+1233,Bernhard Skelcher,Male,Baltimore,12-07-2018,09-11-2018
+1254,Gerri Romagosa,Female,Baltimore,24-01-2018,15-05-2018
+1270,Conan Perks,Male,Baltimore,05-10-2018,09-02-2019
+1303,Mona Wilde,Female,Baltimore,18-01-2018,12-12-2018
+1309,Vernen Robichon,Male,Baltimore,12-11-2018,17-11-2018
+1368,Sammie Fortun,Male,Baltimore,30-06-2018,30-10-2018
+1387,Janifer Culver,Female,Baltimore,23-10-2018,27-02-2019
+1407,Sander Smorthit,Male,Baltimore,06-12-2018,20-01-2019
+1419,Sterne Yexley,Male,Baltimore,25-02-2018,04-04-2018
+1486,Hi Shawyer,Male,Baltimore,16-01-2019,09-02-2019
+1503,Pryce Japp,Male,Baltimore,15-05-2018,09-02-2019
+1525,Rosette Keyzman,Female,Baltimore,21-10-2018,08-12-2018
+1527,Wyn Fenelow,Male,Baltimore,15-02-2018,24-12-2018
+1537,Pansy Creeboe,Female,Baltimore,27-09-2018,13-12-2018
+1552,Victoria Lowin,Female,Baltimore,31-10-2018,16-11-2018
+1595,Tyrone Mathe,Male,Baltimore,05-03-2018,07-11-2018
+1604,Enos Rasmus,Male,Baltimore,13-01-2019,13-02-2019
+1609,Neila Denziloe,Female,Baltimore,25-02-2019,27-02-2019
+1630,Durward Leneve,Male,Baltimore,14-01-2018,19-01-2018
+1633,Rutter Maude,Male,Baltimore,02-07-2018,23-12-2018
+1659,Neddy Archanbault,Male,Baltimore,20-10-2018,20-02-2019
+1680,Darb Toulamain,Male,Baltimore,04-09-2018,20-12-2018
+1687,Adriano Muggeridge,Male,Baltimore,08-12-2018,21-12-2018
+1709,Gaby Jickells,Female,Baltimore,22-01-2019,16-02-2019
+1732,Vanessa Kupke,Female,Baltimore,20-08-2018,25-11-2018
+1798,Maura Fibbens,Female,Baltimore,01-01-2018,20-09-2018
+1803,Neysa Laurenzi,Female,Baltimore,19-12-2018,24-02-2019
+1827,Quinn Glayzer,Male,Baltimore,03-10-2018,07-02-2019
+1845,Bert Showell,Male,Baltimore,03-06-2018,16-11-2018
+1849,Latia Mosedill,Female,Baltimore,14-01-2019,29-01-2019
+1850,Roddy Frizzell,Male,Baltimore,19-04-2018,24-01-2019
+1857,Marcello Millichip,Male,Baltimore,13-10-2018,21-12-2018
+1868,Daveta O'Hannigan,Female,Baltimore,11-03-2018,17-01-2019
+1916,Von Gauson,Male,Baltimore,18-09-2018,05-10-2018
+1962,Yank Gunstone,Male,Baltimore,15-12-2018,08-02-2019
+1986,Devon Aucock,Female,Baltimore,27-02-2019,27-02-2019
+1992,Betty Ambrois,Female,Baltimore,20-08-2018,08-01-2019
+1999,Prince Fullylove,Male,Baltimore,17-09-2018,03-01-2019
+2025,Stafford Hecks,Male,Baltimore,08-01-2018,17-04-2018
+2034,Genni Brecher,Female,Baltimore,13-02-2018,12-07-2018
