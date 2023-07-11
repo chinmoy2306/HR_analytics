@@ -20,6 +20,8 @@ The HR analytics dashboard includes the following components:
 -	Employee Distribution: Visualizes the distribution of employees across different branch, age group, job roles and education levels.
 -	Due Promotion Analysis: Analyses potential employees who are due for promotion, to be retrenched & severance beneficiaries providing valuable insights.
 -	Employee Feedback Analysis: Examines employee performance levels, job satisfaction levels, work-life balance etc. based on their shared feedbacks, also helps to identify and highlight crucial aspects that needs to be dealt with to maximise employee retention. 
+## Screenshots
+![image](https://github.com/chinmoy2306/HR_analytics/blob/f28ec4cd835bd1ae58582bb1c517f480ee0b4b59/Screenshot.jpg)
 ## Usage
 To explore the HR analytics dashboard:
 1.	Clone the repository:
